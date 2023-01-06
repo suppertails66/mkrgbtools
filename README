@@ -1,0 +1,51 @@
+********************************************************************************
+*                       Magic Knight Rayearth (Game Boy)                       *
+*                     English Translation Patch Materials                      *
+********************************************************************************
+
+This package contains the source materials (code/art/script) for LIPEMCO!
+Translations' English translation of the Game Boy game Magic Knight Rayearth.
+
+                    ****************************************
+                    *          Build Instructions          *
+                    ****************************************
+                    
+The build system is only set up for Unix-like systems, though none of the code
+is fundamentally dependent on this and could be ported with a bit of effort.
+You'll need GCC, libpng, and any dependencies of wla-dx.
+
+You'll first need a ROM image of Magic Knight Rayearth for the Game Boy. It
+should match the following specifications:
+
+  No-Intro filename: Magic Knight Rayearth (Japan) (SGB Enhanced).gb
+  CRC32:             94838a81
+  MD5:               06b75e657debd1568f18d369cc2422dd
+  SHA-1:             4f77031946e62772a241a9b5b046d7fcf6a28ea8
+
+Rename it "mkrgb.gb" and place it in the "mkrgb" folder. Then:
+
+$ cd mkrgb
+$ ./build.sh
+
+build.sh should then build all the necessary tools and output the translated
+ROM as mkrgb_en.gb.
+
+If you want to modify the project, check build.sh to see where the resources
+that get inserted into the game are coming from.
+
+                    ****************************************
+                    *              Licensing               *
+                    ****************************************
+
+See COPYING. Basically, everything by me (Supper) is GPLv3, and everything else
+is under the terms of whoever wrote it.
+
+                    ****************************************
+                    *               Credits                *
+                    ****************************************
+
+                        TheMajinZenki -- Translation
+                               Supper -- Hacking
+                               cccmar -- Editing and Testing
+                             Xanathis -- Testing
+
