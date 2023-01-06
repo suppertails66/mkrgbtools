@@ -1,0 +1,175 @@
+			intro
+
+あるひ　ひかる・うみ・ふうの３にんは
+エメロードひめによって　いせかい
+セフィーロにしょうかんされた……
+
+どうしクレフから　マジックナイトの
+でんせつをとかれ　まほうをさずかった
+かのじょたちは……
+
+ザガートにさらわれたエメロードひめを
+そして　セフィーロをすくうために
+たびをつづけるのであった……
+
+One day, Hikaru, Umi, and Fuu were summoned to another world, Cephiro, by Princess Emeraude.
+
+After Guru Clef told them about the legend of the Magic Knights and unlocked their latent magic,
+
+the girls went on their journey to save Princess Emeraude and the land of Cephiro from Zagato...
+
+================================================
+
+			titlescreen
+			
+			マジックナイト
+			魔法騎士
+		レイアース
+		
+		はじめから
+		つづきから
+		
+	(c)ＣＬＡＭＰ・講談社
+	読売ＴＶ・電通・ＴＭＳ
+	(c)ＴＯＭＹ　１９９５
+
+			Magic Knight
+		Rayearth
+		
+		Start
+		Continue
+		
+	(c) CLAMP - Kodansha
+	Yomiuri TV - Dentsu - TMS
+	(c) TOMY 1995
+
+================================================
+
+			character select
+
+［ひかる］
+わたしのおはなしだよ！
+<Hikaru>
+It's my adventure!
+
+［うみ］
+わたしのストーリーよ！
+<Umi>
+This is my story!
+
+［ふう］
+わたくしのおはなしですわ！
+<Fuu>
+This would be my tale!
+
+だれのおはなしにするか　えらんでね
+Please select a story.
+
+================================================
+
+			selecting Hikaru
+
+［ひかる］
+よし　がんばるぞ！
+<Hikaru>
+Okay, I'll do my best!
+
+			selecting Umi
+
+［うみ］
+がんばらなきゃ！
+I must do my best!
+
+			selecting Fuu
+
+［ふう］
+がんばりますわ！
+I shall do my best!
+
+================================================
+
+			save menu
+
+どのデータに　きろくをしますか？
+Where will you save?
+
+			empty file
+
+－　きろくが　ありません！　－
+-- There's no data here! --
+
+			saving
+
+[number]ばんに　きろくしました！
+Saved on file [number]!
+
+================================================
+
+			load menu
+
+どのデータの　つづきをしますか？
+Where will you continue from?
+
+================================================
+
+			status screen
+
+		[character name]
+		LV
+		
+HP
+MP
+こうげき	Attack
+まりょく	Magic
+すばやさ	Speed
+
+================================================
+
+			battle stuff
+
+[monstername]	が　あらわれた！
+[monstername] draws near!
+
+[monstername]	が　みがまえた！
+[monstername] is guarding!
+
+[monstername]	を　やっつけた！
+[monstername]	was defeated!
+
+[monstername]	に　たおされた！
+Defeated by [monstername]!
+
+けいけんちをえた！
+Gained EXP!
+
+レベルがあがった！
+Level up!
+
+こうげき	Attack
+まほう		Magic
+にげる		Run
+
+
+
+================================================
+
+			monster names
+
+レプチリアン		Reptilian
+ジャスパー			Giant Spider (katakana reads "Jaspaa", but since the sprite is a spider I assume it's just short for "giant spider")
+フルフラワー		Full Flower
+ヘルタイガー		Hell Tiger
+デボット			Debot
+レッドウルブス		Red Wolves (it's a two-headed wolf)
+ゴーレン			Golen (I guess they gave it an altered name because Golems are actually a thing in the series?)
+レッドドラコ		Red Drake
+ゲッペル			Geppel
+ブルータイガー		Blue Tiger
+ツインズヘッド		Twin Heads
+ノースゴーレン		North Golen
+フリーズドラコ		Freeze Drake
+ドボス				Dobos
+キングタイガー		King Tiger
+ホワイトウルブス	White Wolves
+ドラコ				Drake
+トリュース			Trius

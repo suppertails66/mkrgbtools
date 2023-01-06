@@ -1,0 +1,15474 @@
+//[TEXT]
+#STARTMSG(0x3025B, 135)
+
+[portrait]<$0B>
+// ［うみ］[br]
+// あーーーーーーーーーっ！
+<Umi>[br]
+
+[wait]
+
+// いったいどこまでつづいてる[br]
+// のよっ　このもりは！！
+
+[wait]
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// まあまあ　うみさん
+<Fuu>[br]
+
+[wait]
+
+// あるいていれば[br]
+// いつかはぬけることができる[br]
+// とおもいますから……
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// うーーーー！
+<Umi>[br]
+
+[wait]
+
+// モコナのことをしんじた[br]
+// わたしがばかだったわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x302EC, 32)
+
+[fd]<$09>
+[portrait]<$09>
+// ［うみ］[br]
+// あるけど　あるけど[br]
+// あるのは　❞き❞だけ……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3030F, 43)
+
+[clear]
+
+[portrait]<$0B>
+// なぜわたしみたいな[br]
+// かわいいおんなのこが
+
+[wait]
+
+// こんなくろうをしなきゃ[br]
+// いけないの？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3033D, 28)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$09>
+// ああ……[br]
+// はやくもとのせかいに[br]
+// もどりたいわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30367, 141)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// うみちゃん[br]
+// しょうがないよ
+<Hikaru>[br]
+
+[wait]
+
+// このもりをぬけて[br]
+// ザガートをたおさないと
+
+[wait]
+
+// もとのせかいにもどれないん[br]
+// だから……
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// わかってるわよ！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// うみちゃん[br]
+// がんばろう！
+<Hikaru>[br]
+
+[wait]
+
+// いろんなくなんに[br]
+// うちかってこそ
+
+[wait]
+
+// でんせつのきし[br]
+// マジックナイトなんだから！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3040D, 36)
+
+[portrait]<$09>
+// ［うみ］[br]
+// はあーーあ……
+<Umi>[br]
+
+[wait]
+
+// まったくのりやすいんだから[br]
+// ひかるは……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3043B, 80)
+
+[fd]<$09>
+[portrait]<$10>
+// ［ふう］[br]
+// ……………
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+// ひかるさん[br]
+// うみさんもつかれて[br]
+// らっしゃるようですし
+
+[wait]
+
+// きょうはこのへんで[br]
+// やすみましょうか？
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// うん　そうだね
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3048E, 82)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$03>
+// モコナ　きょうは[br]
+// このあたりでやすもうか
+
+[wait]
+
+[clear]
+
+[portrait]<$16>
+// ［モコナ］[br]
+// ぷう！
+<Mokona>[br]
+
+[sound]<$0F>
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// じゃあ　モコナハウスを[br]
+// だしてね
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$16>
+// ［モコナ］[br]
+// ぷう！
+<Mokona>[br]
+
+[sound]<$0F>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30513, 20)
+
+[fd]<$09>
+[portrait]<$04>
+// ［ひかる］[br]
+// あっ！　モコナ！？
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3052B, 28)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// まったく[br]
+// あのふしぎせいぶつは！！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30552, 16)
+
+[portrait]<$10>
+// ［ふう］[br]
+// あっ！　うみさん
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30582, 47)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// まったく[br]
+// なかがよろしいんですね
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$16>
+// ［モコナ］[br]
+// ぷう！　ぷう！
+<Mokona>[br]
+
+[sound]<$0F>
+[delay]<$01>
+[sound]<$0F>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x305C1, 19)
+
+[portrait]<$0A>
+// ［うみ］[br]
+// こら！　まてモコナ！！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x305F3, 19)
+
+[portrait]<$04>
+// ［ひかる］[br]
+// まって　うみちゃん！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3060E, 20)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// なんだろう　この❞え❞
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30636, 306)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// まあ[br]
+// ❞え❞ですわね……
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// あら　きれいね
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ほんとだな
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ふしぎな❞え❞ね
+<Umi>[br]
+
+[wait]
+
+// こんなうっそうとした[br]
+// もりのなかに
+
+[wait]
+
+// さらにうっそうとした[br]
+// もりの❞え❞なんて
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ？？？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// うみさん
+<Fuu>[br]
+
+[wait]
+
+// わたくしには[br]
+// きょだいな❞めいきゅう❞に[br]
+// みえますけど……
+
+[wait]
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// ❞まちのふうけい❞にみえる
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// どういうこと！？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// ！？
+<Fuu>[br]
+
+[wait]
+
+// なにか　みぎしたに[br]
+// サインみたいなものが[br]
+// かいてありますわ
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ほんとだ
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// ザ……ガート……
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// へえ　ザガートさんてひとが[br]
+// かいたのか
+<Hikaru>[br]
+
+[fd]<$09>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3076B, 51)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ちょ　ちょっと！[br]
+// ザガートって　まさか
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// あのザガートさんですわ！
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x307AE, 42)
+
+[portrait]<$04>
+// ［ひかる］[br]
+// な　なんだ！？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// くっ！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$12>
+// ［ふう］[br]
+// きゃああ！
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x307FF, 17)
+
+[fd]<$08>
+[portrait]<$16>
+// ［モコナ］[br]
+// ぷーーう！！
+<Mokona>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30813, 3)
+
+[fe]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x308FB, 16)
+
+[portrait]<$05>
+// ［ひかる］[br]
+// あいててて……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30919, 71)
+
+[portrait]<$19>
+// ［まちのおとこ］[br]
+// うわっ！
+<Townsman>[br]
+
+[wait]
+
+// ❞まもの❞だ[br]
+// ❞まもの❞がいどのなかから[br]
+// せめてきたぞ！
+
+[wait]
+
+[clear]
+
+[portrait]<$18>
+// ［まちのおんな］[br]
+// きゃー[br]
+// みんなにげるのよ！
+<Townswoman>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309AB, 16)
+
+[fd]<$09>
+[portrait]<$02>
+// ［ひかる］[br]
+// あれれ……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309C7, 45)
+
+[clear]
+
+[portrait]<$04>
+// ま　まさか　❞まもの❞って[br]
+// わたしのこと！？
+
+[wait]
+
+// ごかいだ[br]
+// わたしはなんにもしてないよ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A0A, 44)
+
+[fd]<$09>
+[portrait]<$02>
+// ［ひかる］[br]
+// こんにちは[br]
+// だれかいますかー？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［まちのひと］[br]
+// ………………
+<Townsperson>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A3D, 41)
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// わたし❞まもの❞じゃないよ
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［まちのひと］[br]
+// ………………
+<Townsperson>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A6B, 55)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// こんにちは[br]
+// だれかいますかー？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ………………
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// あれ　けはいがしないな
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AAC, 63)
+
+[fd]<$02>
+[portrait]<$02>
+// ［ひかる］[br]
+// このまちのひとに　わたしが[br]
+// ❞まもの❞じゃないと[br]
+// わかってもらわなきゃ！
+<Hikaru>[br]
+
+[wait]
+
+// みんなのいえを[br]
+// まわってみよう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AF1, 28)
+
+[fd]<$02>
+[portrait]<$02>
+// ［ひかる］[br]
+// まちのひとの[br]
+// ごかいをとかなきゃ！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B11, 39)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// あーあ……
+<Hikaru>[br]
+
+[wait]
+
+// みんな　いえのなかに[br]
+// とじこもって　でてこないや
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B56, 85)
+
+[portrait]<$21>
+// ［まもの］[br]
+// ぐはははは！
+<Monster>[br]
+
+[wait]
+
+// きょうこそ[br]
+// ロゼッタのまちのさいごだ！[br]
+// やっちまえ！！
+
+[wait]
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// おまえたちだな！
+<Hikaru>[br]
+
+[wait]
+
+// おまえたちが　まちのひとを[br]
+// くるしめてたのか！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BBE, 18)
+
+[fd]<$09>
+[portrait]<$21>
+// ［まもの］[br]
+// ひーーっ！！！
+<Monster>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BDA, 16)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// やった！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C1A, 30)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// おお　あの❞まもの❞たちを[br]
+// たおすとは……
+<Man>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C55, 221)
+
+[portrait]<$17>
+// ［ラデル］[br]
+// オレはこのまちのリーダー[br]
+// ラデル
+<Ladel>[br]
+
+[wait]
+
+// さっきは　❞まもの❞と[br]
+// かんちがいしてわるかった
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// ううん　いいんだ
+<Hikaru>[br]
+
+[wait]
+
+// ❞まもの❞じゃないと[br]
+// わかってくれたんなら
+
+[wait]
+
+// わたしは　ひかるだよ
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// ゆるしてくれるのか[br]
+// ありがたい
+<Ladel>[br]
+
+[wait]
+
+// まことにかってですまない[br]
+// のだが　ひとつたのみがある
+
+[wait]
+
+// オレのいえにきて[br]
+// はなしをきいてくれ
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// はなし？
+<Hikaru>[br]
+
+[wait]
+
+// うん　いいよ
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// じゃあ　オレのあとを[br]
+// ついてきてくれ
+<Ladel>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D6B, 530)
+
+[portrait]<$17>
+// ［ラデル］[br]
+// たのみというのは[br]
+// ほかでもない
+<Ladel>[br]
+
+[wait]
+
+// きみのちからをかりたいのだ
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ちから？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1A>
+// ［リーファ］[br]
+// わたしたちは
+<Leafa>[br]
+
+[wait]
+
+// さっきもせめてきた[br]
+// ❞まもの❞たちに　いつも[br]
+// おびやかされているの
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// もうなんども[br]
+// たたかいをいどんだが
+<Ladel>[br]
+
+[wait]
+
+// そのたびにししゃを[br]
+// ふやすばかりだった
+
+[wait]
+
+// しかし
+
+[wait]
+
+// おやじからたくされた[br]
+// このまちを　てきに[br]
+// わたすわけにはいかない
+
+[wait]
+
+// それで　さいごのたたかいを[br]
+// いどもうとおもっていた[br]
+// ところだったんだ
+
+[wait]
+
+[clear]
+
+[portrait]<$1A>
+// ［リーファ］[br]
+// でも　わたしたちだけで[br]
+// たたかいをいどめば
+<Leafa>[br]
+
+[wait]
+
+// いままでのにのまいになる[br]
+// ことはわかっているわ
+
+[wait]
+
+// だから　あなたの❞うで❞を[br]
+// かりたいの
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// いいよ
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// ほんとうか！？
+<Ladel>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// こまってるひとを[br]
+// ほっとけないよ
+<Hikaru>[br]
+
+[wait]
+
+// わたしも　てつだう
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// それならはなしははやい
+<Ladel>[br]
+
+[wait]
+
+// きみには[br]
+// ❞フォーゼルのどうくつ❞に[br]
+// むかってほしい
+
+[wait]
+
+// あそこには　いつもまものが[br]
+// たむろってるんだ
+
+[wait]
+
+// オレとリーファは[br]
+// ❞ゲッペルのしろ❞に[br]
+// のりこむ
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// いいよ
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// ❞フォーゼルのどうくつ❞は[br]
+// このまちのなんせいにある
+<Ladel>[br]
+
+[wait]
+
+// きをつけてくれ！
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// うん
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31049, 91)
+
+[portrait]<$17>
+// ［ラデル］[br]
+// たびのひとに[br]
+// こんなことをたのんでしまっ[br]
+// てもうしわけないとおもって[br]
+// いる
+<Ladel>[br]
+
+[wait]
+
+// でも[br]
+// もうたたかえるものは
+
+[wait]
+
+// このまちには　オレと[br]
+// リーファしかいないんだ
+
+[wait]
+
+// よろしくたのむ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310A8, 37)
+
+[portrait]<$17>
+// ［ラデル］[br]
+// ひかる……
+<Ladel>[br]
+
+[wait]
+
+// ❞フォーゼルのどうくつ❞の[br]
+// ほうはたのんだぞ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310D3, 86)
+
+[portrait]<$1A>
+// ［リーファ］[br]
+// ひかるさん
+<Leafa>[br]
+
+[wait]
+
+// わたしたちのまちのために
+
+[wait]
+
+// きけんなめにあわせることを[br]
+// もうしわけなく[br]
+// おもっています
+
+[wait]
+
+// きけんなたたかいですが[br]
+// どうかよろしく[br]
+// おねがいします
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3112D, 29)
+
+[portrait]<$1A>
+// ［リーファ］[br]
+// ひかるさん[br]
+// よろしくおねがいいたします
+<Leafa>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3115C, 57)
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// ひかるさん
+<Guard>[br]
+
+[wait]
+
+// ラデルさまのおねがいを[br]
+// ききとどけてくださって[br]
+// ありがとうございます
+
+[wait]
+
+// おきをつけて
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31199, 40)
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// ❞フォーゼルのどうくつ❞は[br]
+// なんせいにあります
+<Guard>[br]
+
+[wait]
+
+// おきをつけて
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311C3, 42)
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// ラデルさまとリーファさまは[br]
+// ❞ゲッペルのしろ❞に[br]
+// むかわれました
+<Guard>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311EF, 218)
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// ひかるさん
+<Guard>[br]
+
+[wait]
+
+// しゅびのほうは[br]
+// いかがですか？
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// ❞フォーゼルのどうくつ❞の[br]
+// ほうはおわったよ
+<Hikaru>[br]
+
+[wait]
+
+// ラデルさんたちは？
+
+[wait]
+
+[clear]
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// まだおもどりになりません
+<Guard>[br]
+
+[wait]
+
+// なにごともなければ[br]
+// よいのですが……
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// わたしが　みてくるよ[br]
+// しんぱいだから
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// すみません
+<Guard>[br]
+
+[wait]
+
+// ❞ゲッペルのしろ❞は[br]
+// ほくせいのほうこうで
+
+[wait]
+
+// ひがしのはしをわたってから[br]
+// にしにいくとあります
+
+[wait]
+
+// よろしくおねがいします
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312CD, 27)
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// ひかるさん[br]
+// よろしくおねがいします
+<Guard>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312F4, 174)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// あれ　かぎがある？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// いけないよ
+<Ladel>[br]
+
+[wait]
+
+// それは　まちでかんりしてる[br]
+// いえのかぎなんだから
+
+[wait]
+
+[clear]
+
+[portrait]<$07>
+// ［ひかる］[br]
+// るるるるぅーー
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// そんなかおしてもだめだよ
+<Ladel>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// でも　なんでこんなとこに[br]
+// しまってるの？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// オレは　そういうところに[br]
+// しまうのがすきなんだ
+<Ladel>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// へんなの
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313A4, 18)
+
+[portrait]<$17>
+// ［ラデル］[br]
+// ひかる！　だめだよ
+<Ladel>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313C2, 52)
+
+[fd]<$08>
+[portrait]<$03>
+// ［ひかる］[br]
+// ラデルさんたちがいないうち[br]
+// に　ちょっとかりちゃおっと
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+[fb]<$12>
+// かぎをてにいれた
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313F9, 35)
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// しーーっ！
+<Hikaru>[br]
+
+[fb]<$00>
+// 　えいへいさんに[br]
+// きこえちゃうよ
+
+[fb]<$04>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31441, 61)
+
+[portrait]<$18>
+// ［おんな］[br]
+// あなたが　このいどから[br]
+// でてきたときはおどろき[br]
+// ましたわ
+<Woman>[br]
+
+[wait]
+
+// さっきのちょうしで[br]
+// まものをたおしてくださいね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31480, 31)
+
+[portrait]<$18>
+// ［おんな］[br]
+// ラデルさんたちが[br]
+// もどってきたら　おいわいね
+<Woman>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314A1, 28)
+
+[portrait]<$18>
+// ［おんな］[br]
+// ラデルさんたち[br]
+// だいじょうぶかしらねぇ
+<Woman>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314CB, 41)
+
+[portrait]<$18>
+// ［おんな］[br]
+// リーファさんとラデルさんは
+<Woman>[br]
+
+[wait]
+
+// しょうらいをちかいあった[br]
+// なかなのよ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314F8, 57)
+
+[fd]<$09>
+[portrait]<$18>
+// ［おんな］[br]
+// まちからでたら
+<Woman>[br]
+
+[wait]
+
+// ちかくのくぼみを[br]
+// さがしてごらんなさい
+
+[wait]
+
+// おいしいみずのわく[br]
+// いずみがあるから
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31536, 38)
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// もう　のんだよ！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$18>
+// ［おんな］[br]
+// おいしかったでしょう
+<Woman>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3155E, 74)
+
+[portrait]<$18>
+// ［おんな］[br]
+// どうくつのまものを[br]
+// たおしたの？
+<Woman>[br]
+
+[wait]
+
+// かわいくて　つよくて……
+
+[wait]
+
+// う　[delay]<$02>ふ　[delay]<$02>ふ　[delay]<$02>っ　[delay]<$02>
+
+[sound]<$06>
+// ❤
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// ゾクッ………
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x315AA, 29)
+
+[portrait]<$18>
+// ［おんな］[br]
+// リーファさんたちおそいわね[br]
+// しんぱいだわ
+<Woman>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x315D1, 51)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// どうくつには　さきほどの[br]
+// まものより　はるかに[br]
+// つよいやつがいるそうです
+<Man>[br]
+
+[wait]
+
+// きをつけて
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31606, 29)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// おお！しんぱいは[br]
+// いらなかったようですね
+<Man>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31629, 86)
+
+[fd]<$09>
+[portrait]<$19>
+// ［おとこ］[br]
+// ゲッペルのしろに[br]
+// むかわれるそうですね
+<Man>[br]
+
+[wait]
+
+// なんどもいうようですが[br]
+// きをつけてください
+
+[wait]
+
+// どうちゅう❞み❞のなってる[br]
+// きがありますが　たべては[br]
+// いけませんよ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31684, 38)
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// ……………
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$19>
+// ［おとこ］[br]
+// えっ　もっもしかして………
+<Man>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x316AE, 27)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// あそこのきのみは[br]
+// あぶないですからね
+<Man>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x316D3, 29)
+
+[fd]<$09>
+[portrait]<$02>
+// ［ひかる］[br]
+// あれれ……[br]
+// きになにか　かいてる……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x316F3, 16)
+
+[clear]
+
+[portrait]<$00>
+// 『ラデル　❤　リーファ』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3170D, 27)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// わたしは　ここから[br]
+// でてきたのか……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3172C, 44)
+
+[fd]<$09>
+[portrait]<$02>
+// ［ひかる］[br]
+// このいど　セフィーロに[br]
+// つながってるのかな？
+<Hikaru>[br]
+
+[wait]
+
+// いしを　なげてみよう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3175B, 42)
+
+[clear]
+
+[portrait]<$00>
+// ………………
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ？？？？
+<Hikaru>[br]
+
+[wait]
+
+// なぜ　みずのおとが[br]
+// しないんだ！？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31786, 9)
+
+[fd]<$08>
+[clear]
+
+[portrait]<$00>
+// ぷう！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31792, 3)
+
+[fe]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x317AA, 55)
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// ！！！！！
+<Hikaru>[br]
+
+[wait]
+
+// ぷ　ぷう！[br]
+// モ　モコナがいるのか？
+
+[wait]
+
+// おーい　モコナァー！！
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ………………
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x317E5, 25)
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// き　きのせいね……[br]
+// きっと……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3183C, 55)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// こんにちは[br]
+// だれかいますかー？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ………………
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// あれ　けはいがしないな
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31875, 15)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ………………
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31886, 24)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// だれもいないと[br]
+// さみしいな……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x318BD, 46)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// ……………
+<Hikaru>[br]
+
+[wait]
+
+// なぜ　こんなところに[br]
+// こんなものが……
+
+[wait]
+
+// みなかったことにしよう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x318F1, 14)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// ……………
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31913, 19)
+
+[portrait]<$01>
+// ［ひかる］[br]
+// あっ　オルゴールだ！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3192F, 72)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ……………
+<Hikaru>[br]
+
+[wait]
+
+// なんだろう　このかみ
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ❞タイトルがめんで[br]
+// 　ＳＥＬＥＣＴを[br]
+// 　３２かいおせ！❞
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ？？？？？
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31987, 46)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ……………
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ❞タイトルがめんで[br]
+// 　ＳＥＬＥＣＴを[br]
+// 　３２かいおせ！❞
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x319CC, 32)
+
+[portrait]<$1B>
+// ［こども］[br]
+// あそこのいえのひと[br]
+// みんなしんじゃったんだ……
+<Child>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x319EE, 48)
+
+[portrait]<$1B>
+// ［こども］[br]
+// おねえちゃん
+<Child>[br]
+
+[wait]
+
+// なんせいのやまにいったら[br]
+// ちょうじょうから[br]
+// けしきをみるといいよ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31A20, 28)
+
+[portrait]<$1B>
+// ［こども］[br]
+// おねえちゃん[br]
+// いいものをみせてあげるよ
+<Child>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31A93, 35)
+
+[fd]<$09>
+[portrait]<$1B>
+// ［こども］[br]
+// わーい！わーい！
+<Child>[br]
+
+[wait]
+
+// ひっかかった！[br]
+// ひっかかった！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31ABA, 17)
+
+[clear]
+
+[portrait]<$05>
+// ［ひかる］[br]
+// あいててて……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31ACE, 31)
+
+[clear]
+
+[portrait]<$04>
+// こらっ　まてぇー！
+
+[wait]
+
+[clear]
+
+[portrait]<$1B>
+// ［こども］[br]
+// わーい！わーい！
+<Child>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31B05, 30)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// まったく[br]
+// いたずらずきなんだから……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31B2D, 26)
+
+[portrait]<$1B>
+// ［こども］[br]
+// おねえちゃん[br]
+// さっきはごめんね……
+<Child>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31B49, 42)
+
+[portrait]<$1B>
+// ［こども］[br]
+// えっ？　とうのちかくの
+<Child>[br]
+
+[wait]
+
+// …[delay]<$02>…[delay]<$02>…[delay]<$02>…[delay]<$02>クスッ[delay]<$02>…[delay]<$02>…
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31BB2, 47)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// またきょうもまものが[br]
+// せめてきた
+<Man>[br]
+
+[wait]
+
+// いつか　このまちも[br]
+// ほろんでしまうのか……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31BE3, 55)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// どうくつのまものを[br]
+// たおしたのか！
+<Man>[br]
+
+[wait]
+
+// あとは　ゲッペルさえ[br]
+// たおせば　このまちはへいわ[br]
+// になる
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31C1E, 161)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// ラデルさんたちが[br]
+// しんぱいだ……
+<Man>[br]
+
+[wait]
+
+[clear]
+
+// ……………
+
+[wait]
+
+[clear]
+
+// ふふふっ　ラデルがかえって[br]
+// こないって？？
+
+[wait]
+
+// おれはリーファが　すき[br]
+// だったんだ
+
+[wait]
+
+// このまま　ラデルさえ[br]
+// かえってこなければ……
+
+[wait]
+
+[clear]
+
+// でも　ちょっとまてよ
+
+[wait]
+
+// ラデルがかえってこないって[br]
+// ことは　リーファも[br]
+// あぶないってことか……
+
+[wait]
+
+[clear]
+
+// ……………
+
+[wait]
+
+[clear]
+
+// リーファッ！！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31CE5, 78)
+
+[portrait]<$04>
+// ［ひかる］[br]
+// あっ！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// こんなところに[br]
+// ❞え❞がおいてある
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// わぁ　リーファさんそっくり
+
+[wait]
+
+// もってってリーファさんにも[br]
+// みしてあげよー
+
+[fb]<$12>
+[delay]<$0A>
+[fb]<$04>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31D35, 46)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// すまないが　ベッドには[br]
+// さわらないでくれ
+<Man>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ごめんなさぁい
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31DA8, 57)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// わたしに[br]
+// もうすこしちからがあれば[br]
+// てつだうこともできるのに
+<Man>[br]
+
+[wait]
+
+// ひかるさん[br]
+// よろしくおねがいします
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31DE3, 46)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// さすがは　ひかるさん！
+<Man>[br]
+
+[wait]
+
+// あとは　ラデルさんたちの[br]
+// きっぽうをまつだけですね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31E13, 29)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// ラデルさんたちを[br]
+// よろしくおねがいします
+<Man>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31E3A, 36)
+
+[portrait]<$18>
+// ［おんな］[br]
+// ひかるさんなら　きっと[br]
+// やれるわ
+<Woman>[br]
+
+[wait]
+
+// がんばってくださいね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31E60, 41)
+
+[portrait]<$18>
+// ［おんな］[br]
+// ラデルさんたちも[br]
+// いまごろは　こちらに[br]
+// むかっているころでしょう
+<Woman>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31E8B, 43)
+
+[portrait]<$18>
+// ［おんな］[br]
+// ラデルさんたち[br]
+// おそすぎるわ
+<Woman>[br]
+
+[wait]
+
+// なにごともなければ[br]
+// いいんですけど……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31EBE, 70)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// あれ　なんだろうこれ？
+<Hikaru>[br]
+
+[wait]
+
+// きれいだな
+
+[wait]
+
+[clear]
+
+[portrait]<$18>
+// ［おんな］[br]
+// おほほっ[br]
+// それは　コインよ
+<Woman>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// へぇー　かわってるなぁ
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31F0A, 17)
+
+[portrait]<$01>
+// ［ひかる］[br]
+// きれいだなぁ……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31F23, 108)
+
+[portrait]<$07>
+// ［ひかる］[br]
+// うずうずうず……
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$18>
+// ［おんな］[br]
+// うふふっ[br]
+// よっぽど　きにいったようね
+<Woman>[br]
+
+[wait]
+
+// それくらいなら　あげるわよ
+
+[wait]
+
+[clear]
+
+[sound]<$19>
+[portrait]<$03>
+// ［ひかる］[br]
+// ほんとう！　わーい[br]
+// ありがとうっ！！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+// ❞コイン❞をてにいれた
+
+[fb]<$12>
+[delay]<$0A>
+[fb]<$04>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31F91, 63)
+
+[portrait]<$18>
+// ［おんな］[br]
+// もう　あげないわよ
+<Woman>[br]
+
+[wait]
+
+// もしよければ　みずうみに[br]
+// いってごらんなさい
+
+[wait]
+
+// ❞きれいないし❞がいっぱい[br]
+// おちているわよ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32015, 63)
+
+[portrait]<$18>
+// ［おんな］[br]
+// わたしのしゅじんは
+<Woman>[br]
+
+[wait]
+
+// まちをまもろうとして[br]
+// まものにころされました
+
+[wait]
+
+// どうか　しゅじんのかたきを[br]
+// とってください
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32056, 33)
+
+[portrait]<$18>
+// ［おんな］[br]
+// ひかるさんのおかげで[br]
+// しゅじんも　うかばれますわ
+<Woman>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32079, 64)
+
+[portrait]<$18>
+// ［おんな］[br]
+// まものがいなくなっても
+<Woman>[br]
+
+[wait]
+
+// ラデルさんに[br]
+// もしものことがあったら……
+
+[wait]
+
+// みんなをまとめる[br]
+// ひとがいなくなってしまうわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x320C3, 41)
+
+[portrait]<$1B>
+// ［こども］[br]
+// おおきくなったら　つよく[br]
+// なって　とうさんのかたきを[br]
+// うつんだ！
+<Child>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x320EE, 45)
+
+[portrait]<$1B>
+// ［こども］[br]
+// おねえちゃん　つよいんだね
+<Child>[br]
+
+[wait]
+
+// こんど　まものの[br]
+// やっつけかた　おしえてよ！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3211D, 36)
+
+[portrait]<$1B>
+// ［こども］[br]
+// おねえちゃん[br]
+// がんばってね！
+<Child>[br]
+
+[wait]
+
+// ぼくも　おうえんしてるよ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32149, 55)
+
+[fd]<$09>
+[portrait]<$02>
+// ［ひかる］[br]
+// あれ　こんなところに[br]
+// かたながある
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1B>
+// ［こども］[br]
+// それ　とうさんのかたみ[br]
+// なんだ……
+<Child>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32181, 59)
+
+[clear]
+
+[portrait]<$07>
+// ［ひかる］[br]
+// うずうずうず……
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1B>
+// ［こども］[br]
+// もってっちゃだめだよ！
+<Child>[br]
+
+[wait]
+
+// ぼくが　かたきうちで[br]
+// つかうんだから！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x321C4, 40)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ここが[br]
+// ❞フォーゼルのどうくつ❞か
+<Hikaru>[br]
+
+[wait]
+
+// きをひきしめていかなくちゃ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3221F, 77)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ここがラデルさんのいってた[br]
+// ❞ゲッペルのしろ❞か……
+<Hikaru>[br]
+
+[wait]
+
+// ここは　ラデルさんに[br]
+// まかせて　わたしは[br]
+// ❞フォーゼルのどうくつ❞に[br]
+// いそがなきゃ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32270, 34)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// わたしは[br]
+// ❞フォーゼルのどうくつ❞に[br]
+// いそがなきゃ
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32294, 60)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ラデルさんたち[br]
+// だいじょうぶかなぁ……
+<Hikaru>[br]
+
+[wait]
+
+// とりあえず　ラデルさんたち[br]
+// をしんじて　まちにもどって[br]
+// まとう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x322D3, 20)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// よし　のりこんでみよう
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3231C, 118)
+
+[portrait]<$07>
+// ［ひかる］[br]
+// わあー　いいながめ……[br]
+// くうきもおいしいし
+<Hikaru>[br]
+
+[wait]
+
+// とうきょうじゃ　みられない[br]
+// けしきだ
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ふうちゃんやうみちゃんにも[br]
+// みせたいな
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ………………
+
+[wait]
+
+// こんなことしてるばあいじゃ[br]
+// ないや
+
+[wait]
+
+// はやく　まものを[br]
+// やっつけないと！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x323A7, 51)
+
+[fd]<$08>
+[portrait]<$07>
+// ［ひかる］[br]
+// わあ　おいしそうな[br]
+// きのみがなってる！
+<Hikaru>[br]
+
+[wait]
+
+// たべたいな　たべたいな！
+
+[wait]
+
+[clear]
+
+// たべますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x323DE, 48)
+
+[fe]<$08>
+[clear]
+
+[portrait]<$01>
+// やっぱり　わからないものは[br]
+// たべないでおこう
+
+[wait]
+
+// おなかをこわしたら[br]
+// たいへんだから……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32412, 13)
+
+[clear]
+
+[portrait]<$03>
+// うん！　おいしい！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32421, 22)
+
+[clear]
+
+[portrait]<$02>
+// ………………
+
+[wait]
+
+// ぐぎゅるるるぅーーーっ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3243A, 2)
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32440, 19)
+
+[fe]<$08>
+[clear]
+
+[portrait]<$05>
+// おなかがいたいィーーーー！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32467, 41)
+
+[portrait]<$05>
+// ［ひかる］[br]
+// あいててて……
+<Hikaru>[br]
+
+[wait]
+
+// やっぱり　わからないものは[br]
+// たべないほうがいいや
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32497, 40)
+
+[portrait]<$05>
+// ［ひかる］[br]
+// この　きのみをみると
+<Hikaru>[br]
+
+[wait]
+
+// おなかのいたみを[br]
+// おもいだしちゃうな……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x324C1, 51)
+
+[fd]<$08>
+[portrait]<$01>
+// ［ひかる］[br]
+// たべるとおなかこわしちゃう[br]
+// かな……？
+<Hikaru>[br]
+
+[wait]
+
+[portrait]<$07>
+// でも　たべてみたいな
+
+[wait]
+
+[clear]
+
+// たべますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x324F8, 33)
+
+[fe]<$08>
+[clear]
+
+[portrait]<$01>
+// しらないものを[br]
+// たべるのって[br]
+// やっぱり　ゆうきでないや
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32521, 28)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// あれ　こんなところに[br]
+// いずみがある……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3254D, 18)
+
+[portrait]<$01>
+// ［ひかる］[br]
+// きれいな　みずだな
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32563, 38)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// おいしそうな　みず……[br]
+// のんでみようかな
+<Hikaru>[br]
+
+[wait]
+
+// のみますか？
+
+[fd]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3258D, 33)
+
+[clear]
+
+[portrait]<$01>
+// なまみずは　からだに[br]
+// わるいから　のむのは[br]
+// やめようっと
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x325B2, 26)
+
+[clear]
+
+// なんだか　のどもかわいて[br]
+// きたし　のんでみよう
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x325D0, 29)
+
+[clear]
+
+// あー　おいしい！[br]
+// なんだか　げんきに[br]
+// なったみたいだ
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x325EF, 33)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// おいしいから　また[br]
+// のもうかな
+<Hikaru>[br]
+
+[wait]
+
+// のみますか？
+
+[fd]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32614, 14)
+
+[clear]
+
+[portrait]<$01>
+// やっぱりやめとこう
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32624, 22)
+
+[clear]
+
+// おいしいから[br]
+// いくらでも　のめそうだな
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3263E, 23)
+
+[clear]
+
+[portrait]<$01>
+// このみずをのむと[br]
+// げんきがでてくるな
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32657, 47)
+
+[portrait]<$01>
+// ［ひかる］[br]
+// なまみずは　からだに[br]
+// わるいけど　のども[br]
+// かわいてるし……
+<Hikaru>[br]
+
+[wait]
+
+// のみますか？
+
+[fd]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3268F, 31)
+
+[clear]
+
+// のどもかわいてるし[br]
+// たくさんのまなければ[br]
+// だいじょうぶね
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x326B2, 31)
+
+[clear]
+
+[portrait]<$03>
+// あー　おいしい！[br]
+// なんだか　げんきに[br]
+// なったみたいだ
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x326EE, 47)
+
+[portrait]<$06>
+// ［ひかる］[br]
+// いたたたた……
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$05>
+// だれだ　こんなところの[br]
+// くさをしばったのはっ！！！
+
+[fd]<$09>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32725, 56)
+
+[clear]
+
+[portrait]<$04>
+// きっと　あのこだわ！
+
+[wait]
+
+[portrait]<$02>
+// ……………
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// まっ　いくらなんでも[br]
+// こどもに　ここまでは[br]
+// こられないか……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32761, 30)
+
+[portrait]<$06>
+// ［ひかる］[br]
+// いたたたた……
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$05>
+// また　やっちゃった…
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32784, 25)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// わぁー
+<Hikaru>[br]
+
+[wait]
+
+// おおきな　みずうみだなぁ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x327A9, 23)
+
+[portrait]<$04>
+// ［ひかる］[br]
+// きゃっ！
+<Hikaru>[br]
+
+[wait]
+
+// あしがすべったっ！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x327C4, 48)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// こんどは　すべらないように[br]
+// しなきゃね
+<Hikaru>[br]
+
+[wait]
+
+[portrait]<$04>
+// きゃっ！
+
+[wait]
+
+// また　あしがすべったっ！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32817, 29)
+
+[portrait]<$1B>
+// ［こども］[br]
+// あっ！　おねえちゃんが[br]
+// ながされてるっ！
+<Child>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32854, 25)
+
+[portrait]<$05>
+// ［ひかる］[br]
+// ふぅ……
+<Hikaru>[br]
+
+[wait]
+
+// おぼれるかと　おもった
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3287D, 127)
+
+[fd]<$08>
+[portrait]<$04>
+// ［ひかる］[br]
+// あ！
+<Hikaru>[br]
+
+[wait]
+
+[portrait]<$01>
+// ここに　❞きれいないし❞が[br]
+// いっぱいおちてる
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// うみちゃんや　ふうちゃんに[br]
+// もっていこーう！
+
+[wait]
+
+[clear]
+
+// ❞いし❞をてにいれた
+
+[fb]<$12>
+[delay]<$0A>
+[fb]<$04>
+[wait]
+
+[clear]
+
+// ……………
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// こんなことしている[br]
+// ばあいじゃないや
+
+[wait]
+
+// すてちゃえ
+
+[sound]<$04>
+[delay]<$08>
+[sound]<$09>
+[delay]<$08>
+[sound]<$18>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3290D, 167)
+
+[fe]<$08>
+[portrait]<$00>
+// ［なぞのじじい］[br]
+// なんじ[br]
+// いま❞いし❞をおとしたな
+<Mysterious Old Man>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$07>
+// ［ひかる］[br]
+// へっ？？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［なぞのじじい］[br]
+// なんじがおとしたのは
+<Mysterious Old Man>[br]
+
+[wait]
+
+// この❞きんのいし❞か[br]
+// それとも❞ぎんのいし❞か？
+
+[wait]
+
+[clear]
+
+[portrait]<$07>
+// ［ひかる］[br]
+// ？？？？？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［なぞのじじい］[br]
+// ……………
+<Mysterious Old Man>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$07>
+// ［ひかる］[br]
+// ？？？？？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［なぞのじじい］[br]
+// ……………
+<Mysterious Old Man>[br]
+
+[wait]
+
+// さらばだ………
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x329BF, 17)
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// ……………？
+<Hikaru>[br]
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x329DB, 19)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// あれ　いきどまりだぁ
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32A54, 21)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ん！？[br]
+// てきのけはいが！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32A6F, 31)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ふう……
+<Hikaru>[br]
+
+[wait]
+
+// はやく　ここのボスを[br]
+// たおさなきゃ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32A94, 94)
+
+[portrait]<$1F>
+// ［デボット］[br]
+// なんだ？　おまえは
+<Debot>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// おまえが[br]
+// このどうくつのボスだな
+<Hikaru>[br]
+
+[wait]
+
+// ❞ロゼッタのまち❞を[br]
+// おまえたちのいいように[br]
+// させないぞ
+
+[wait]
+
+[clear]
+
+[portrait]<$1F>
+// ［デボット］[br]
+// こむすめがーー！！
+<Debot>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32AF8, 22)
+
+[fd]<$09>
+[portrait]<$1F>
+// ［デボット］[br]
+// こ　こんなばかな……
+<Debot>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32B19, 37)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// やったあ！
+<Hikaru>[br]
+
+[wait]
+
+// あとは　ラデルさんたちの[br]
+// ほうだけね！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32B44, 34)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// いきどまりか……
+<Hikaru>[br]
+
+[wait]
+
+// いかにも[br]
+// あやしいんだけどな……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32B6E, 61)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// あっ！　ちいさい[br]
+// ステージみたい
+<Hikaru>[br]
+
+[wait]
+
+// うみちゃんが　おどったら[br]
+// にあいそうだな……
+
+[wait]
+
+// きっと　こんなかんじかな
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32BAF, 41)
+
+[portrait]<$06>
+// ［ひかる］[br]
+// いたたたた……
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$05>
+// ちょっと　ちょうしに[br]
+// のりすぎたみたい……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32C0B, 27)
+
+[portrait]<$01>
+// ［ひかる］[br]
+// ……………
+<Hikaru>[br]
+
+[wait]
+
+// また　おどってみようかな
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32C2A, 32)
+
+[portrait]<$06>
+// ［ひかる］[br]
+// いたたたた……
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$05>
+// やっぱり　せまいなぁ……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32C72, 31)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// おや？
+<Hikaru>[br]
+
+[wait]
+
+// こんなところに　トンネルが[br]
+// ある！？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32C93, 24)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ？？？
+<Hikaru>[br]
+
+[wait]
+
+// いまのは　いったい……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32CAD, 24)
+
+[portrait]<$01>
+// ［ひかる］[br]
+// もういっかい　はいって[br]
+// みよう
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32CC7, 34)
+
+[portrait]<$07>
+// ［ひかる］[br]
+// きゃーっ！
+<Hikaru>[br]
+
+[wait]
+
+// よくわかんないけど[br]
+// おもしろーいっ！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32D2C, 51)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// あれ？　かべにあながある
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+// うーーん……
+
+[wait]
+
+[clear]
+
+[portrait]<$04>
+// あっ　おくのほうに[br]
+// ひかるものがある
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32D67, 27)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// うーん…どうやっても[br]
+// とどかないなぁ
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32D95, 59)
+
+[fb]<$12>
+[portrait]<$03>
+// ［ひかる］[br]
+// やったぁ！　やっととれた！[delay]<$0A>
+<Hikaru>[br]
+
+[fb]<$00>
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// なんだ　ただのこおりか
+<Hikaru>[br]
+
+[wait]
+
+// ……たべちゃおっと
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32E1C, 62)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// うえのほうから　けんのまじ[br]
+// わるおとがきこえる……
+<Hikaru>[br]
+
+[wait]
+
+// ラデルさんとリーファさんが[br]
+// まものとたたかってるんだ！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32E91, 50)
+
+[fd]<$09>
+[portrait]<$19>
+// ［おとこ］[br]
+// うぅーー
+<Man>[br]
+
+[wait]
+
+// リーファァァ……
+
+[wait]
+
+// リーファのかおが[br]
+// もういちどだけ[br]
+// みたかった………
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32EC8, 66)
+
+// リーファァァ……[br]
+// リーファァァ……
+
+[wait]
+
+// リー……………[br]
+// …でへへへ………
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// なんか　しあわせそうに[br]
+// わらっているなぁ？
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32F12, 17)
+
+[portrait]<$19>
+// ［おとこ］[br]
+// …でへへへ………
+<Man>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32F25, 119)
+
+[fe]<$09>
+[sound]<$0D>
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// そうだ！
+<Hikaru>[br]
+
+[wait]
+
+// あの❞え❞をみせてあげよう
+
+[wait]
+
+[clear]
+
+[portrait]<$19>
+// ［おとこ］[br]
+// こ　これは……
+<Man>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// さぁ　げんきをだして[br]
+// ファイトだよ！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$19>
+// ［おとこ］[br]
+// リ　リーファ……
+<Man>[br]
+
+[wait]
+
+// う[delay]<$02>ぅ[delay]<$02>　[delay]<$02>
+
+[sound]<$19>
+// う[delay]<$02>ぉぉぉーーーっ！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32FC9, 25)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// わぁーーーっ[br]
+// すっごーーーいっ！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x32FEA, 45)
+
+[fd]<$09>
+[portrait]<$01>
+// ［ひかる］[br]
+// あれ　なんだろう[br]
+// このレールは？
+<Hikaru>[br]
+
+[wait]
+
+// うえから[br]
+// ずっと　つづいているなぁ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3301E, 21)
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// なんにつかうんだろ……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33037, 55)
+
+[clear]
+
+[portrait]<$07>
+// ［ひかる］[br]
+// あっ！　やっぱり[br]
+// さっきのコインが　おちてる
+<Hikaru>[br]
+
+[wait]
+
+[portrait]<$03>
+// ひろって[br]
+// もういっかいあそぼうっと！
+
+[sound]<$0D>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33070, 31)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// いっかいから　けしきを[br]
+// みてもつまらないな…
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x330E0, 19)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// あれ　いきどまりかぁ
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x330FB, 96)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// なんだろう？　このごみは
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+// よくみると　ふとんみたい[br]
+// きたないなぁ
+
+[wait]
+
+[clear]
+
+// もしかしたら　さっきの[br]
+// まものさんのなのかなぁ
+
+[wait]
+
+[clear]
+
+// ……………
+
+[wait]
+
+[clear]
+
+// なんか　わるいこと[br]
+// しちゃったのかな……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3315D, 22)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ……………
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+// ごめんね……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33184, 26)
+
+[fd]<$09>
+[portrait]<$01>
+// ［ひかる］[br]
+// ん？　かべにらくがきが[br]
+// あるぞ
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3319F, 50)
+
+[clear]
+
+[portrait]<$00>
+// 『ゲッペルさまのばか…[br]
+// いつもいつも[br]
+// こきつかいやがって……』
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// ……………
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x331DD, 48)
+
+[fd]<$09>
+[portrait]<$01>
+// ［ひかる］[br]
+// あれ　なんだろう[br]
+// このレールは？
+<Hikaru>[br]
+
+[wait]
+
+// したにむかって[br]
+// ずっと　つづいているなぁ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33214, 21)
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// なんにつかうんだろ……
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3322D, 48)
+
+[fd]<$09>
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// このレール　まるいものが[br]
+// ころがりそうだな
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// コインころがしちゃえ！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33261, 22)
+
+[fd]<$09>
+[portrait]<$03>
+// ［ひかる］[br]
+// また　やってみようっと
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x332A2, 28)
+
+[clear]
+
+[portrait]<$07>
+// したのほうに　ころがってっ[br]
+// ちゃった……るるるっ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x332C0, 22)
+
+[clear]
+
+[portrait]<$07>
+// かんがえてみたら[br]
+// コインがないや……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x332D8, 51)
+
+[fd]<$09>
+[portrait]<$19>
+// ［おとこ］[br]
+// リーファァァ……[br]
+// リーファァァ……
+<Man>[br]
+
+[wait]
+
+// リー……………[br]
+// うぅーー[br]
+// もうだめだぁ………
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3330D, 23)
+
+[portrait]<$01>
+// ［ひかる］[br]
+// ちょっと[br]
+// たかくなってきたな
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33334, 117)
+
+[portrait]<$21>
+// ［まもの］[br]
+// なんだおまえは！？
+<Monster>[br]
+
+[wait]
+
+// さっきのやつらの[br]
+// なかまだな！
+
+[wait]
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// ラデルさんとリーファさんは[br]
+// どこだ！！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$21>
+// ［まもの］[br]
+// このうえさ
+<Monster>[br]
+
+[wait]
+
+// でも　おまえは[br]
+// そこにはいけないよ
+
+[wait]
+
+// このおれさまに[br]
+// たおされるんだからな！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x333B5, 36)
+
+[portrait]<$04>
+// ［ひかる］[br]
+// ラデルさんとリーファさんが[br]
+// あぶない
+<Hikaru>[br]
+
+[wait]
+
+// いそがなきゃ！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33420, 21)
+
+[fd]<$09>
+[portrait]<$03>
+// ［ひかる］[br]
+// わぁ　いいながめだな
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3343D, 33)
+
+[clear]
+
+[portrait]<$02>
+// なんか……[br]
+// みぎのまどのけしきと[br]
+// ちがうような　きがする…
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33460, 20)
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// どうも　おかしいなぁ
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3347C, 25)
+
+[fd]<$09>
+[portrait]<$03>
+// ［ひかる］[br]
+// うーん[br]
+// とおくまでみえるなぁ
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3349D, 34)
+
+[clear]
+
+[portrait]<$02>
+// なんか……[br]
+// ひだりのまどのけしきと[br]
+// ちがうような　きがする…
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x334C1, 24)
+
+[portrait]<$01>
+// ［ひかる］[br]
+// あっ
+<Hikaru>[br]
+
+[wait]
+
+// ロゼッタのまちがみえる！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x334EB, 49)
+
+[portrait]<$04>
+// ［ひかる］[br]
+// ラデルさん！[br]
+// リーファさん！！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$20>
+// ［ゲッペル］[br]
+// ほほう[br]
+// まだなかまがいたのか
+<Geppel>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33525, 117)
+
+[portrait]<$17>
+// ［ラデル］[br]
+// ひ　ひかる……
+<Ladel>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// ラデルさん！！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// すまん
+<Ladel>[br]
+
+[wait]
+
+// ふがいないところを[br]
+// おみせして……
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// だいじょうぶ
+<Hikaru>[br]
+
+[wait]
+
+// あいつはわたしに[br]
+// まかせといて！
+
+[wait]
+
+// ラデルさんは[br]
+// ここでやすんでてください
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3359F, 46)
+
+[portrait]<$04>
+// ［ひかる］[br]
+// いくぞ！！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$20>
+// ［ゲッペル］[br]
+// ちょこざいな！[br]
+// やつざきにしてくれるわ！！
+<Geppel>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x335D9, 17)
+
+[fd]<$09>
+[portrait]<$20>
+// ［ゲッペル］[br]
+// ぐおおお！
+<Geppel>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x335F1, 73)
+
+[fe]<$09>
+[portrait]<$03>
+[clear]
+
+// ［ひかる］[br]
+// やった！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// さ　さすがは　ひかる……
+<Ladel>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// しゃべらないで！
+<Hikaru>[br]
+
+[wait]
+
+// さあ　はやく　まちに[br]
+// もどろう！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33658, 132)
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// ひかるさん
+<Guard>[br]
+
+[wait]
+
+// どうもありがとう[br]
+// ございました
+
+[wait]
+
+// ラデルさんとリーファさんも[br]
+// すこしやすめば[br]
+// かいふくするでしょう
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// うん！
+<Hikaru>[br]
+
+[wait]
+
+// まものたちもたおしたし[br]
+// これで　このまちも[br]
+// へいわになるね
+
+[wait]
+
+[clear]
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// はい[br]
+// ひかるさんのおかげです
+<Guard>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x336E9, 34)
+
+[fd]<$09>
+[portrait]<$19>
+// ［おとこ］[br]
+// たいへんだ！
+<Man>[br]
+
+[wait]
+
+// ❞いど❞のようすが[br]
+// へんなんだ！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33710, 77)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// なんだと！？
+<Guard>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$19>
+// ［おとこ］[br]
+// そのおんなのこが[br]
+// でてきたときみたいに[br]
+// ひかってるんだ！
+<Man>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// よし　いってみよう
+<Guard>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x337C9, 139)
+
+[fd]<$05>
+[fd]<$04>
+[portrait]<$1C>
+// ［えいへい］[br]
+// なるほど……
+<Guard>[br]
+
+[wait]
+
+// ひかるさんがでてきたときと[br]
+// おなじだ……
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// ひょっとすると
+<Hikaru>[br]
+
+[wait]
+
+// このなかにとびこめば[br]
+// セフィーロに[br]
+// もどれるかな？
+
+[wait]
+
+[clear]
+
+[fd]<$08>
+[portrait]<$1C>
+// ［えいへい］[br]
+// ふむ　そうかもしれませんな
+<Guard>[br]
+
+[wait]
+
+// どうです？[br]
+// ためしにとびこんでみては
+
+[wait]
+
+[clear]
+
+// とびこみますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3385A, 77)
+
+[portrait]<$01>
+// ［ひかる］[br]
+// うーん……でもなー……
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// どうしました？
+<Guard>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// もしかしたら[br]
+// ちがうかもしれない
+<Hikaru>[br]
+
+[wait]
+
+// もっとよくしらべてみよう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x338AC, 13)
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// あっ！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x338C2, 34)
+
+[clear]
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// ひ　ひかるさん！！[br]
+// …………お　おげんきで……
+<Guard>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x338E8, 88)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// よし　いってみよう
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// おなごりおしいですな
+<Guard>[br]
+
+[wait]
+
+// ラデルさんとリーファさん[br]
+// には　わたしから[br]
+// つたえておきます
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// うん　よろしくね
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3394C, 219)
+
+[fd]<$09>
+[portrait]<$01>
+// ［ひかる］[br]
+// みんな
+<Hikaru>[br]
+
+[wait]
+
+// もうてきはいないはずだから[br]
+// がんばってね！
+
+[wait]
+
+[clear]
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// みなをだいひょうして
+<Guard>[br]
+
+[wait]
+
+// わたしからおれいをいわせて[br]
+// いただきます
+
+[wait]
+
+// ほんとうにありがとう[br]
+// ございました
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// そんな……みんなでちからを[br]
+// あわせたからだよ
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$19>
+// ［まちのおとこ］[br]
+// どこにいくのか[br]
+// わからないけど
+<Townsman>[br]
+
+[wait]
+
+// がんばってな
+
+[wait]
+
+[clear]
+
+[portrait]<$18>
+// ［まちのおんな］[br]
+// げんきでね
+<Townswoman>[br]
+
+[wait]
+
+// まものとかんちがいして[br]
+// わるかったわね
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// じゃあね　みんな
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33A30, 26)
+
+[clear]
+
+[portrait]<$1C>
+// ［えいへい］[br]
+// ひかるさん！[br]
+// おげんきでー！！
+<Guard>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33ABB, 16)
+
+[fd]<$09>
+[portrait]<$0D>
+// ［うみ］[br]
+// いったーい！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33AD7, 33)
+
+[clear]
+
+[portrait]<$0C>
+// ててて……[br]
+// おとめになんてしうちを[br]
+// するのよ　まったく……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33B04, 12)
+
+[clear]
+
+[portrait]<$09>
+// それにしても……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33B1C, 56)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0B>
+// あのふたりがいないうえに
+
+[wait]
+
+// またうっそうとしげった[br]
+// もりのなかとは……
+
+[wait]
+
+// ついてないったら[br]
+// ありゃしない
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33B57, 57)
+
+[portrait]<$09>
+// ［うみ］[br]
+// まあ　とうめんの[br]
+// もくひょうは
+<Umi>[br]
+
+[wait]
+
+// こんなうっとうしいところ[br]
+// はやくぬけだすことね
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// はーーあ……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33BEE, 38)
+
+[fd]<$09>
+[portrait]<$0A>
+// ［うみ］[br]
+// あら　かわいい[br]
+// どうしたのかしら[br]
+// こんなにいきをきらせて
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33C15, 26)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// たたた[br]
+// たすけてくだしゃい！！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33C30, 40)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0E>
+// ［うみ］[br]
+// う　う　う[br]
+// ううううううううう[br]
+// うさぎがしゃべったーー！！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33C71, 54)
+
+[fd]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ちょっ　ちょっと[br]
+// おちついてくだしゃい！[br]
+// おわれてるんです
+<Lotek>[br]
+
+[wait]
+
+// たすけてくだしゃい！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33CAB, 80)
+
+[clear]
+
+[portrait]<$0C>
+// ［うみ］[br]
+// ………………
+<Umi>[br]
+
+[wait]
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ふう……[br]
+// やっとおちついてくれた[br]
+// みたいでしゅね……
+<Lotek>[br]
+
+[wait]
+
+// なんて　のんびりしてる[br]
+// ばあいじゃなかったでしゅ！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33D33, 132)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// た　たすけてくだしゃい！
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// さすがセフィーロ……[br]
+// へんないきものが[br]
+// いっぱいいるわ……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// まあ　それはさておき[br]
+// あの❞まもの❞をなんとか[br]
+// しなきゃね
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// たすけてくれるでしゅか！？
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// わかったわ！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x33DDC, 576)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はー　おつよいんでしゅねぇ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// あれくらいの❞まもの❞なら[br]
+// どうってことないわ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ありがとうございましゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// そういえば
+<Umi>[br]
+
+[wait]
+
+// あなたこの❞もり❞からでる[br]
+// ほうほうしらない？
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ぼくは　ずっとここでくらし[br]
+// てきたから
+<Lotek>[br]
+
+[wait]
+
+// ❞もり❞からでたことは[br]
+// ないでしゅ
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// そう……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// そうがっかりしないで[br]
+// くだしゃい
+<Lotek>[br]
+
+[wait]
+
+// ぼくはしらないけど[br]
+// ちょうろうならしってるかも[br]
+// しれないでしゅ
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ちょうろう？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// この❞もり❞で[br]
+// せんねんいじょういきてるん[br]
+// でしゅ
+<Lotek>[br]
+
+[wait]
+
+// すごいでしょ
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// せんねん！？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// うーん……
+<Umi>[br]
+
+[wait]
+
+// さいこうしんきろくだわ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// え？
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// あ……いや
+<Umi>[br]
+
+[wait]
+
+// ７００さいくらいの[br]
+// わかづくりのまほうつかいを[br]
+// しっててね
+
+[wait]
+
+// そのひとよりながくいきてた[br]
+// から　おどろいただけ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// なるほどでしゅ……
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// それより
+<Umi>[br]
+
+[wait]
+
+// そのちょうろうのところに[br]
+// あんないして
+
+[wait]
+
+// はやく　この❞もり❞から[br]
+// でたいの
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// いいでしゅよ[br]
+// あんないするでしゅ！
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// おねがいするわ
+<Umi>[br]
+
+[wait]
+
+// わたしは　❞うみ❞
+
+[wait]
+
+// ❞りゅうざき　うみ❞よ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ぼくは❞ロテック❞でしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34022, 36)
+
+[portrait]<$00>
+// ロテックがなかまになった！
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// さあ　いきましょうか！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34055, 19)
+
+[fd]<$09>
+[portrait]<$0A>
+// ［うみ］[br]
+// ぷっ………ぷぷぷっ
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34075, 29)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ど　どうしたんでしゅか[br]
+// とつぜん……
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34096, 58)
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// あはははははははは……
+<Umi>[br]
+
+[wait]
+
+// ははははははは……
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// なんなんでしゅかね[br]
+// このひとは……
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x340D4, 154)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// あはははは　ごめんなさい…
+<Umi>[br]
+
+[wait]
+
+// ロテックと　はじめてあった[br]
+// ときのことを[br]
+// おもいだしてね……
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はあ……
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// そのときの　ロテックの[br]
+// あわてぶりときたら[br]
+// なかったわ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// わらわないでくだしゃいよ[br]
+// あのときは　ほんとに[br]
+// こわかったんでしゅから……
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34191, 18)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// ここでしゅ！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x341AD, 67)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ？？？
+<Umi>[br]
+
+[wait]
+
+// どこに　ちょうろうがいるの
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// どこみてるでしゅか？
+<Lotek>[br]
+
+[wait]
+
+// ちょうろうはまんまえに[br]
+// いるでしゅ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34208, 16)
+
+[clear]
+
+[portrait]<$0E>
+// ［うみ］[br]
+// わあーーーー！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34237, 28)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// まったく[br]
+// おおげさなひとでしゅね……
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34286, 40)
+
+[fd]<$09>
+[portrait]<$09>
+// ［うみ］[br]
+// な　なるほど……[br]
+// ❞き❞だったのね……
+<Umi>[br]
+
+[wait]
+
+// ははは……　なっとく
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x342B1, 458)
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// ロテックではないか[br]
+// ひさしぶりじゃのう……
+<Elder>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// おひさしぶりでしゅ[br]
+// ちょうろう
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// そのおなごは　なにものじゃ
+<Elder>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ❞もり❞からでたい[br]
+// みたいでしゅ
+<Lotek>[br]
+
+[wait]
+
+// おしえてあげて[br]
+// もらえましぇんか？
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// ❞もり❞から？
+<Elder>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// あい
+<Lotek>[br]
+
+[wait]
+
+// ちょうろうならしってると[br]
+// おもったでしゅ
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// おねがい[br]
+// わたしいそいでるの
+<Umi>[br]
+
+[wait]
+
+// この❞もり❞からのでかたを[br]
+// おしえて
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// …………
+<Elder>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// いのちのおんじんなんでしゅ
+<Lotek>[br]
+
+[wait]
+
+// おしえてあげて[br]
+// くれましぇんか？
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// いのちのおんじん？
+<Elder>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// まものにおそわれてた[br]
+// ところを　たすけてもらった[br]
+// でしゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// ………………
+<Elder>[br]
+
+[wait]
+
+// しかたがあるまい
+
+[wait]
+
+// ほんらいなら[br]
+// おしえるわけには[br]
+// いかんのだが
+
+[wait]
+
+// そういうことなら[br]
+// とくべつにおしえてやろう
+
+[wait]
+
+// ロテックはわがこのように[br]
+// かわいがっているやつ[br]
+// じゃからの
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// ほんとう！？
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3447E, 19)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// よかったでしゅね
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34494, 338)
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// このもりからでる[br]
+// ほうほうは　ただひとつ
+<Elder>[br]
+
+[wait]
+
+// わしのあたまのうえに[br]
+// とびらがある
+
+[wait]
+
+// そこからでられるんじゃが…
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// なにかもんだいでもあるの？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// ❞もり❞をぬけてきたのなら[br]
+// わかるとおもうが
+<Elder>[br]
+
+[wait]
+
+// わしのあたまのうえには
+
+[wait]
+
+// そのとびらをまもる[br]
+// きょうりょくなまものが[br]
+// たくさんおる
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// なるほど
+<Umi>[br]
+
+[wait]
+
+// そいつらをたおさなきゃ[br]
+// いけないのね
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// そうすれば　わしのちからで[br]
+// とじられたとびらを[br]
+// ひらいてやろう
+<Elder>[br]
+
+[wait]
+
+// まものがおったのでは[br]
+// わしだけのちからでは[br]
+// どうにもならんからの
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// わかったわ
+<Umi>[br]
+
+[wait]
+
+// たしょうきけんかもしれない[br]
+// けど　それしかほうほうが[br]
+// ないみたいだものね
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// よかろう……
+<Elder>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x345EE, 67)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// さあ　いってくるがいい
+<Elder>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ぼくも　いっしょに[br]
+// いくでしゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// よかろう
+<Elder>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34656, 18)
+
+[portrait]<$0B>
+// ［うみ］[br]
+// あっ！[br]
+// なにかいる！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34679, 29)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// な[br]
+// なんでしゅ？
+<Lotek>[br]
+
+[wait]
+
+// まものでしゅか！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x346A4, 37)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$00>
+// うにょろ　うにょろ
+
+[wait]
+
+[clear]
+
+[portrait]<$0E>
+// ［うみ］[br]
+// へ　へ[br]
+// へびぃーーーーー！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x346EE, 87)
+
+[fd]<$09>
+[portrait]<$0B>
+// ［うみ］[br]
+// ちょ　ちょっと[br]
+// なんとかしてよ
+<Umi>[br]
+
+[wait]
+
+// ほらっ　はやくー！
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// なんで　こんなものが[br]
+// こわいんでしゅか？
+<Lotek>[br]
+
+[wait]
+
+// まもののほうが[br]
+// よっぽど　こわいでしゅよ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34749, 40)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// そ　そんなことどうでも[br]
+// いいから
+<Umi>[br]
+
+[wait]
+
+// はやく　おっぱらってよ！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34779, 9)
+
+[sound]<$0B>
+[clear]
+
+[portrait]<$00>
+// ぷちっ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3479B, 119)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// やっつけたでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// あ　ありがとう……
+<Umi>[br]
+
+[wait]
+
+// あー　こわかった[br]
+// まだ　どきどきしてるわ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// へびが　こわいなんて[br]
+// おかしいでしゅね
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// う　うるさいわね[br]
+// ほら　さっさといくわよ
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3482E, 51)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// こ　ここは……
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// どうしたのよ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ………………
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3487F, 20)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// なんでもないでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x348AF, 75)
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// なによ　きになるわね
+<Umi>[br]
+
+[wait]
+
+// おしえなさいよ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ……ここは
+<Lotek>[br]
+
+[wait]
+
+// ぼくの　こいびとが[br]
+// まものに　ころされたばしょ[br]
+// なんでしゅ……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x348FD, 79)
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// え……
+<Umi>[br]
+
+[wait]
+
+// ご　ごめんなさい[br]
+// なんか　よけいなことを[br]
+// きいたみたいね
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// い　いいんでしゅ
+<Lotek>[br]
+
+[wait]
+
+// ………………[br]
+// さ　いきましょうでしゅ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3496B, 58)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// ……どうしたんでしゅか？
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// しっ！　❞ハチのす❞よ[br]
+// それもあんなにおおきな……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x349A8, 217)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// す　すごいでしゅ！
+<Lotek>[br]
+
+[wait]
+
+// あんなにおおきなハチのすは[br]
+// はじめてみたでしゅ
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ロテック……あなた[br]
+// このもりのじゅうにんと[br]
+// ともだちなんでしょ？
+<Umi>[br]
+
+[wait]
+
+// なんとかならないの？
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// そんな　だれとでもともだち[br]
+// というわけではないでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ………………
+<Umi>[br]
+
+[wait]
+
+// いいわね
+
+[wait]
+
+// そうーーーっと[br]
+// にげるのよ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はい……でしゅ…
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// いくわよ
+<Umi>[br]
+
+[wait]
+
+// そうーーーっとね[br]
+// そうーっと……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34A88, 66)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ま　まってくだしゃい……
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// なによ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// は　は　は……
+<Lotek>[br]
+
+[wait]
+
+// ハックション！！
+
+[sound]<$09>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34ACF, 77)
+
+[clear]
+
+[portrait]<$0E>
+// ［うみ］[br]
+// ば　ば　ばか　ばか　ばか[br]
+// ばか　ロテックー！！
+<Umi>[br]
+
+[wait]
+
+// なに　おきまりのギャグ[br]
+// とばしてんのよー
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// も　もうおそいでしゅーー！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34BC9, 44)
+
+[fd]<$09>
+[portrait]<$0C>
+// ［うみ］[br]
+// はあ　はあ　はあ
+<Umi>[br]
+
+[wait]
+
+// こ　ここまでくれば[br]
+// だ　だいじょうぶね
+
+[wait]
+
+// きっと……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34BF8, 24)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はぁーー　こわかったでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34C14, 124)
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ロテック！
+<Umi>[br]
+
+[wait]
+
+// もとはといえば[br]
+// あなたがあんなところで[br]
+// くしゃみなんか　するからよ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// それより　うみしゃんが[br]
+// あんなおおきなこえだすから[br]
+// いけないんでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// うるさいわね[br]
+// わたしのせいじゃ[br]
+// ないわよ！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34CA6, 24)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// うみしゃんがわるいでしゅ！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34CD0, 63)
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ギャー　ギャー　ギャー[br]
+// ロテックのせいよ！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// うみしゃんのせいでしゅ！[br]
+// ギャー　ギャー……
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34D27, 60)
+
+[clear]
+
+[portrait]<$00>
+// ………………
+
+[wait]
+
+[clear]
+
+[portrait]<$0D>
+// ［うみ］[br]
+// ……のどがいだいー
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// のどが　かわいたでじゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ………………
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34D6A, 53)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// あーあ[br]
+// つかれちゃった……[br]
+// そろそろ　いこうか……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// でしゅね……
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34DBA, 37)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// あ　このさきは……
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// なにがあるの？
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34DE2, 213)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// なんにもないでしゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// なんかあやしいわね……
+<Umi>[br]
+
+[wait]
+
+// なにか　あるんでしょ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ほんとうになんにも[br]
+// ないでしゅよ！
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ………………
+<Umi>[br]
+
+[wait]
+
+// いいわ　いってみれば[br]
+// わかるから
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ほんとうになんにも[br]
+// ないんでしゅって！
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// むきになるところが[br]
+// ますますあやしい
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// もう　いいでしゅ……
+<Lotek>[br]
+
+[wait]
+
+// いってから　こうかいしても[br]
+// しらないでしゅ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34ED5, 42)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ほんとうに　なんにも[br]
+// ないでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// あやしい……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34F16, 73)
+
+[fd]<$09>
+[portrait]<$09>
+// ［うみ］[br]
+// ………………
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// やっぱり[br]
+// なんにもなかったでしゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ……だましたわね
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// え？
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34F62, 79)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// だましたわねって[br]
+// いってるの！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// だ　だましてなんか[br]
+// いないでしゅ！
+<Lotek>[br]
+
+[wait]
+
+// なんにもないって[br]
+// ほんとのこと[br]
+// いっただけでしゅ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x34FC3, 82)
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// あーー　もう！
+<Umi>[br]
+
+[wait]
+
+// あなたがよけいなこと[br]
+// いうからよ！
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// そんな　やつあたりは[br]
+// よくないでしゅよ……
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// うるさーい！！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35032, 17)
+
+[portrait]<$0B>
+// ［うみ］[br]
+// こらっ　まてーー！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3505E, 43)
+
+[fd]<$09>
+[portrait]<$0D>
+// ［うみ］[br]
+// はぁ　はぁ……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はぁ　はぁ
+<Lotek>[br]
+
+[wait]
+
+// つ　つかれたでしゅ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3508C, 152)
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// はぁ　はぁ……[br]
+// なんだか　しらないうちに[br]
+// もとのところまで[br]
+// もどったみたいだし[br]
+// ゆるしてあげるわ……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ……ぼくはなんにも[br]
+// わるくないでしゅのに……
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// は？[br]
+// なんかいった？　ロテック
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ただの❞ひとりごと❞[br]
+// でしゅよ
+<Lotek>[br]
+
+[wait]
+
+// いきましょうでしゅ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35141, 79)
+
+[portrait]<$09>
+// ［うみ］[br]
+// どうしたの？[br]
+// ロテック……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// なんか　ここのじめんが[br]
+// へこんでるでしゅ……
+<Lotek>[br]
+
+[wait]
+
+// なにかおもいものでも[br]
+// おちてきたんでしゅかね……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x351A2, 96)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// な　なにするんでしゅか[br]
+// いきなり……
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// なんでもないわよ！！
+<Umi>[br]
+
+[wait]
+
+// ほら　さっさといくわよ[br]
+// ばか　ロテック！
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// なんなんでしゅかね[br]
+// まったく……
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3522A, 38)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// うみしゃん　そのさきには[br]
+// いかないほうがいいでしゅよ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35264, 51)
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// え？[br]
+// どうして？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ぼくが　まものの❞わな❞を[br]
+// しかけてあるでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35298, 125)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// へぇー
+<Umi>[br]
+
+[wait]
+
+// いつもにげまわっている[br]
+// ばかりじゃないのね
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// そうでしゅよ
+<Lotek>[br]
+
+[wait]
+
+// ぼくだっていろいろ[br]
+// がんばってるでしゅ！
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ねぇ[br]
+// そのわなみせてよ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// いいでしゅよ
+<Lotek>[br]
+
+[wait]
+
+// きをつけてみてくだしゃいね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35319, 121)
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// また　だますつもりなんじゃ[br]
+// ないでしょうね？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ちがいましゅよ
+<Lotek>[br]
+
+[wait]
+
+// そのさきに　まものの[br]
+// ❞わな❞がしかけてあるんで[br]
+// しゅよ
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// え？[br]
+// わな？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// そうでしゅ
+<Lotek>[br]
+
+[wait]
+
+// ぼくがつくったんでしゅ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35396, 136)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// また　なにもないって[br]
+// いうの？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ちがうでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// じゃあ　なんなの？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// まものの❞わな❞を[br]
+// しかけてあるでしゅ！
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// わな？
+<Umi>[br]
+
+[wait]
+
+// どんなわななの？
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// みてみればわかるでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3542F, 209)
+
+[fd]<$09>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ねぇ　これが[br]
+// ❞わな❞なわけ？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// そうでしゅよ
+<Lotek>[br]
+
+[wait]
+
+// ぼくをおいかけるまものは[br]
+// そのロープにひっかかって[br]
+// こけてしまうでしゅ！
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// ぷっ　あははははははは
+<Umi>[br]
+
+[wait]
+
+// これって[br]
+// あしもとにロープが[br]
+// はってあるだけじゃない
+
+[wait]
+
+// こんなたんじゅんな[br]
+// わなに　まものって[br]
+// ひっかかるわけ？
+
+[wait]
+
+// けっこうまぬけなのね
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// それがいままでいちども[br]
+// かかってくれたことが[br]
+// ないんでしゅ……
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3550C, 41)
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// あたりまえじゃない[br]
+// こんなのに　ひっかかるやつ[br]
+// なんていないわよ
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35538, 78)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// わらわなくてもいいじゃない[br]
+// でしゅか！
+<Lotek>[br]
+
+[wait]
+
+// けっこうかんがえてつくった[br]
+// んでしゅよ！！
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ごめん　ごめん
+<Umi>[br]
+
+[wait]
+
+// もう　わらわないわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35597, 28)
+
+[fe]<$05>
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// けっこうきずついたでしゅ…
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x355EC, 26)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// うみしゃん[br]
+// あぶないでしゅ！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35609, 41)
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// どうしたの？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ❞わな❞がしかけて[br]
+// あるでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3563D, 137)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// わな？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// そうでしゅ
+<Lotek>[br]
+
+[wait]
+
+// おそろしい❞わな❞でしゅ
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// どんな❞わな❞なの？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// どんなまものでも[br]
+// いちげきでたおすという[br]
+// おそろしいものでしゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ふうん……
+<Umi>[br]
+
+[wait]
+
+// じゃあ　ちかづかないほうが[br]
+// いいわね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x356CC, 25)
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// また　ロープでも[br]
+// はってあるの？
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x356E8, 141)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ちがいましゅ！！
+<Lotek>[br]
+
+[wait]
+
+// こんどは　もっとおそろしい[br]
+// わなでしゅ……
+
+[wait]
+
+// どんなまものでも[br]
+// いちげきでたおすという[br]
+// おそろしいものでしゅ
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// こんどはすごいっていっても[br]
+// さっきのがあれじゃ[br]
+// せっとくりょくがないわよ
+<Umi>[br]
+
+[wait]
+
+// わかったわ
+
+[wait]
+
+// わたしがためしにかかって[br]
+// あげる
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35781, 78)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// だ　だめでしゅ！！[br]
+// ほんとうに[br]
+// あぶないでしゅよ！！！
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// だいじょうぶよ
+<Umi>[br]
+
+[wait]
+
+// わたし❞うんどうしんけい❞[br]
+// がいいから……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x357D5, 26)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// うみしゃん[br]
+// あぶないでしゅよ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x357F2, 109)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// どんな❞わな❞か　みせてよ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// だめでしゅよ[br]
+// もし　わなにひっかかったら[br]
+// どうするんでしゅか！
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// だいじょうぶよ　ロテック
+<Umi>[br]
+
+[wait]
+
+// わたし❞うんどうしんけい❞[br]
+// いいんだから！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x358A8, 32)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// だ　だいじょうぶでしゅか！[br]
+// うみしゃん！！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x358D2, 25)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// うみしゃん！
+<Lotek>[br]
+
+[wait]
+
+// うみしゃん！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x358F8, 29)
+
+[clear]
+
+[portrait]<$0C>
+// ［うみ］[br]
+// おはようママ
+<Umi>[br]
+
+[wait]
+
+// きょうのあさごはん　なに？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35920, 37)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// あああ！！[br]
+// うみしゃんがこわれた[br]
+// でしゅーーー！！！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35952, 60)
+
+[fd]<$09>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// あら　ロテック[br]
+// どうしたの？
+<Umi>[br]
+
+[wait]
+
+// ………………
+
+[wait]
+
+// ……あれ？[br]
+// わたしこんなところで[br]
+// なにしてるのかしら？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35995, 41)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// よ　よかったでしゅ[br]
+// うみしゃんが[br]
+// もどったでしゅーー！！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x359C8, 129)
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// どうしたのよ　ロテック
+<Umi>[br]
+
+[wait]
+
+// なに　ないてるの？
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// おーい　おいおい[br]
+// おーい　おいおい
+<Lotek>[br]
+
+[wait]
+
+// よかったでしゅ[br]
+// よかったでしゅー！
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ……へんなの
+<Umi>[br]
+
+[wait]
+
+// いくわよ　ロテック
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// おーい　おいおい[br]
+// おーい　おいおい
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35A6C, 33)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// あ！　うみしゃん！
+<Lotek>[br]
+
+[wait]
+
+// ふせてくだしゃい！！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35A90, 13)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// え？
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35AC5, 25)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// ここは　ぼくのおうちでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35AEA, 22)
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// へえー[br]
+// ここに　すんでるの
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35B0C, 98)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// そうでしゅ
+<Lotek>[br]
+
+[wait]
+
+// なかなかいい　おうちでしょ
+
+[wait]
+
+// あがっていきましゅか？
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// そうね
+<Umi>[br]
+
+[wait]
+
+// すこしだけ　やすませて[br]
+// もらうわ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ゆっくりしていってくだしゃい
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35BA9, 51)
+
+[portrait]<$0A>
+// ［うみ］[br]
+// ゆっくりやすませて[br]
+// もらったわ
+<Umi>[br]
+
+[wait]
+
+// いきましょう　ロテック
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はいでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35BE5, 41)
+
+[portrait]<$08>
+// ［うみ］[br]
+// やすんでいきたいけど……
+<Umi>[br]
+
+[wait]
+
+// ひかるたちがまってるかも[br]
+// しれないからね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35C20, 23)
+
+[portrait]<$09>
+// ［うみ］[br]
+// あら？[br]
+// ここ　とおれそうね……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35C3D, 28)
+
+[portrait]<$09>
+// ［うみ］[br]
+// やっぱりむりか……
+<Umi>[br]
+
+[wait]
+
+// あれ？　なにかいるわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35C6B, 44)
+
+[clear]
+
+[portrait]<$0E>
+// ［うみ］[br]
+// きゃーーー！！[br]
+// へびーーーーー！！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［へび］[br]
+// シャーーーーッ
+<Snake>[br]
+
+[fd]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35C9A, 3)
+
+[fe]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35CAB, 27)
+
+[fd]<$09>
+[portrait]<$0B>
+// ［うみ］[br]
+// はあ　はあ　はあ
+<Umi>[br]
+
+[wait]
+
+// あー　こわかった
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35CCA, 14)
+
+[fe]<$09>
+// さあ　はやくいかなきゃ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35CF8, 42)
+
+[fd]<$09>
+[portrait]<$08>
+// ［うみ］[br]
+// あら？[br]
+// ここ　とおれそうね
+<Umi>[br]
+
+[wait]
+
+// ねぇ　ロテック[br]
+// ここ　とおれないの？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35D26, 33)
+
+[portrait]<$08>
+// ［うみ］[br]
+// ここ　とおれそうなんだけど[br]
+// やっぱりむりなのかなぁ
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35D48, 33)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// あ　そこなら❞ぬけみち❞が[br]
+// あるでしゅよ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35D7A, 16)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// こっちでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35DB8, 71)
+
+[fd]<$09>
+[portrait]<$09>
+// ［うみ］[br]
+// へぇー[br]
+// ここにでるんだぁ……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// いそぐときには[br]
+// よくつかってたでしゅ
+<Lotek>[br]
+
+[wait]
+
+// よく❞へび❞がいるん[br]
+// でしゅけどね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35E04, 134)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0E>
+// ［うみ］[br]
+// へ　へび！？[br]
+// それをはやくいってよね！！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// いうと　うみしゃんがついて[br]
+// こないとおもったんでしゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ……そのとおりなんだけど
+<Umi>[br]
+
+[wait]
+
+// まったく❞しらぬがほとけ❞[br]
+// ね
+
+[wait]
+
+// もうにどと　ここは[br]
+// とおらないわ
+
+[wait]
+
+// ロテック　いきましょう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35E8E, 149)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0E>
+// ［うみ］[br]
+// げ　やっぱり……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// は？　どうしたんでしゅか？
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// まえに　あそこで❞へび❞を[br]
+// みたことがあったから……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// あそこは　❞へびのす❞が[br]
+// たくさんあるんでしゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// もうにどと　ここは[br]
+// とおらないわ
+<Umi>[br]
+
+[wait]
+
+// ロテック　いきましょう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35F2C, 23)
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ここは　にどととおらない[br]
+// わよ
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35F78, 62)
+
+[fd]<$09>
+[portrait]<$0D>
+// ［うみ］[br]
+// いたっ！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ………………
+<Lotek>[br]
+
+[wait]
+
+// ……もしかして[br]
+// うみしゃんって[delay]<$02>…[delay]<$02>…[delay]<$02>なんで[br]
+// しゅね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x35FB9, 206)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// うるさーーーい！！[br]
+// ちょっとよそみしてただけよ
+<Umi>[br]
+
+[wait]
+
+// じゃなきゃ　こんなわなに[br]
+// ひっかかるわけ[br]
+// ないじゃない！！
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はぁ[br]
+// なんとなくそうじゃないの[br]
+// かとおもってたんでしゅが…
+<Lotek>[br]
+
+[wait]
+
+// やっぱり[delay]<$02>…[delay]<$02>…[delay]<$02>だったとは……
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ちょっと！！[br]
+// あんた　きいてるの！？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はいはいでしゅ
+<Lotek>[br]
+
+[wait]
+
+// さ　いきましゅよ[br]
+// うみしゃん
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// あーーもう[br]
+// くやしーー！！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3609C, 62)
+
+[fd]<$09>
+[portrait]<$0D>
+// ［うみ］[br]
+// いたっ！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ………………
+<Lotek>[br]
+
+[wait]
+
+// ……もしかして[br]
+// うみしゃんって[delay]<$02>…[delay]<$02>…[delay]<$02>なんで[br]
+// しゅね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x360DD, 206)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// うるさーーーい！！[br]
+// ちょっとよそみしてただけよ
+<Umi>[br]
+
+[wait]
+
+// じゃなきゃ　こんなわなに[br]
+// ひっかかるわけ[br]
+// ないじゃない！！
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はぁ[br]
+// なんとなくそうじゃないの[br]
+// かとおもってたんでしゅが…
+<Lotek>[br]
+
+[wait]
+
+// やっぱり[delay]<$02>…[delay]<$02>…[delay]<$02>だったとは……
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ちょっと！！[br]
+// あんた　きいてるの！？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はいはいでしゅ
+<Lotek>[br]
+
+[wait]
+
+// さ　いきましゅよ[br]
+// うみしゃん
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// あーーもう[br]
+// くやしーー！！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3626A, 74)
+
+[portrait]<$08>
+// ［うみ］[br]
+// へえ……
+<Umi>[br]
+
+[wait]
+
+// きのなかなんて[br]
+// はじめてはいるわ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// きをつけてくだしゃいよ
+<Lotek>[br]
+
+[wait]
+
+// ❞まもの❞が　いっぱい[br]
+// いるみたいでしゅから
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x362C9, 46)
+
+[portrait]<$0A>
+// ［うみ］[br]
+// これが　このもりからの[br]
+// でぐちのとびらね
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// やったでしゅ！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36310, 46)
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// きをつけるんじゃ！[br]
+// まだ　❞まもの❞たちの[br]
+// ❞おさ❞がいるんじゃぞ！！
+<Elder>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3635D, 58)
+
+[portrait]<$0D>
+// ［うみ］[br]
+// きゃあ！！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$24>
+// ［ドボス］[br]
+// にがさんぞ！
+<Dobos>[br]
+
+[wait]
+
+// このせかいからだして[br]
+// なるものか！[br]
+// マジックナイトめ！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3639F, 80)
+
+[fd]<$09>
+[portrait]<$24>
+// ［ドボス］[br]
+// ぐあああ！
+<Dobos>[br]
+
+[wait]
+
+// くくく……[br]
+// しかしおまえはにげることは[br]
+// できん
+
+[wait]
+
+// そして　うらぎりものの[br]
+// この❞もり❞のいきものたち[br]
+// もな……
+
+[wait]
+
+// ぐわっはっはっ！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x363FA, 18)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// やったでしゅ！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36418, 35)
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// でも　あの❞まもの❞が[br]
+// いっていたのは[br]
+// なんのこと？
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3643F, 50)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// せんさくしなくてもよい
+<Elder>[br]
+
+[wait]
+
+// それより　やくそくどおり[br]
+// とびらをひらいてやろう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36484, 16)
+
+[fd]<$09>
+[portrait]<$09>
+// ［うみ］[br]
+// とびらが……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36497, 45)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// よかったでしゅね
+<Lotek>[br]
+
+[wait]
+
+// これで　この❞もり❞から[br]
+// だっしゅつできるでしゅよ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x364C8, 41)
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// さあ　いそぐがよい
+<Elder>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// ありがとう　ちょうろう
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x364F4, 19)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// きをつけてでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3650A, 19)
+
+[clear]
+
+[portrait]<$00>
+// ロテックがなかまから[br]
+// はずれた
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36520, 131)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// じゃあね　ロテック
+<Umi>[br]
+
+[wait]
+
+// あんたといっしょにいて[br]
+// たのしかったわ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はいでしゅ[br]
+// またあえたらいいでしゅね
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// こんどは　こんな[br]
+// うっそうとした❞もり❞[br]
+// じゃないほうがいいわ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// じゃあ　バイバイでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36625, 32)
+
+[fd]<$09>
+[portrait]<$0A>
+// ［うみ］[br]
+// あ　❞きのみつ❞がでてるわ[br]
+// おいしそうね……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36648, 21)
+
+[clear]
+
+[portrait]<$09>
+// ねぇ　ロテック[br]
+// これたべられるの？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36660, 63)
+
+[fd]<$08>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// わからないでしゅ
+<Lotek>[br]
+
+[wait]
+
+// ちょうろうの　なかに[br]
+// はいったのは　これが[br]
+// はじめてでしゅから
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// たべますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x366A3, 33)
+
+[fe]<$08>
+[fe]<$09>
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// わからないものは[br]
+// たべないほうがいいわね
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x366CB, 23)
+
+[fe]<$08>
+[fd]<$09>
+[portrait]<$0A>
+// ［うみ］[br]
+// きっと　だいじょうぶよ
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x366E5, 32)
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ………………
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// うん！おいしい！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3670D, 25)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ……だいじょうぶ[br]
+// でしゅか？
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36729, 53)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// なんだか[br]
+// げんきになったみたい
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// そうでしゅか　よかった[br]
+// でしゅね
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36769, 34)
+
+[fd]<$08>
+[portrait]<$0A>
+// ［うみ］[br]
+// この　みつ[br]
+// きにいっちゃった
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// たべますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3678F, 37)
+
+[fe]<$08>
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// いまは　おなかへってないし[br]
+// また　あとでたべようっと
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x367B8, 19)
+
+[fe]<$08>
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// うん！おいしい！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x367D4, 34)
+
+[fd]<$08>
+[portrait]<$0A>
+// ［うみ］[br]
+// この　みつ[br]
+// きにいっちゃった
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// たべますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x367FD, 19)
+
+[fe]<$08>
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// うん！おいしい！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36819, 31)
+
+[portrait]<$08>
+// ［うみ］[br]
+// もうなくなってしまったわ
+<Umi>[br]
+
+[wait]
+
+// きにいってたのに……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36862, 71)
+
+[portrait]<$0B>
+// ［うみ］[br]
+// あそこに　とびらがみえるわ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// でぐちの❞とびら❞かも[br]
+// しれないでしゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// うん　いってみましょう
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x368BC, 29)
+
+[fd]<$09>
+[portrait]<$09>
+// ［うみ］[br]
+// あれ　こんなところに[br]
+// あながあいてるわ
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x368E6, 38)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// なんでしゅかね……？
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// のぞいてみようか
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3690F, 57)
+
+[fd]<$08>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ……やめたほうがいい[br]
+// でしゅよ
+<Lotek>[br]
+
+[wait]
+
+// なんか　わるいよかんが[br]
+// するでしゅ
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// のぞきますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3694C, 161)
+
+[fe]<$09>
+[fe]<$08>
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// なんだか[br]
+// ぶきみな　あなね……
+<Umi>[br]
+
+[wait]
+
+// やめといたほうが[br]
+// よさそうだわ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// あやうきにちかよらず……[br]
+// でしゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// セフィーロにも　そんな[br]
+// かくげんがあるのね……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// か　かくげん？
+<Lotek>[br]
+
+[wait]
+
+// ……なんでしゅか？　それ？
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ううん　こっちのこと[br]
+// さ　いくわよ
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x369F6, 19)
+
+[fe]<$08>
+[portrait]<$08>
+// ［うみ］[br]
+// のぞいてみるね……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36A0C, 28)
+
+[clear]
+
+[portrait]<$00>
+// ………………
+
+[wait]
+
+[clear]
+
+[portrait]<$0D>
+// ［うみ］[br]
+// きゃあーーーーー！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36A2B, 23)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ど　どうしたんでしゅか！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36A65, 26)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ひー　まものでしゅーーー！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36A97, 35)
+
+[clear]
+
+[portrait]<$21>
+// ［まもの］[br]
+// おれさまのねぐらをのぞく[br]
+// やつはだれじゃあーー！！
+<Monster>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36AC8, 52)
+
+[fd]<$09>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ふう　あせったわ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// のぞかないほうが[br]
+// いいといったでしゅのに……
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36AFF, 52)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// う　うるさいわね[br]
+// いくわよ　なにしてるの
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はい　はいでしゅ……
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36B3C, 27)
+
+[fd]<$09>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// でも　きになるわね[br]
+// このあな……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36B64, 36)
+
+[fd]<$08>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// やめたほうがいいでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// のぞきますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36B8C, 74)
+
+[fe]<$08>
+[fe]<$09>
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// やっぱりやめとくわ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// こんなところで[br]
+// あぶらうってるばあい[br]
+// じゃないでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// そうね……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36C0F, 42)
+
+[fd]<$09>
+[portrait]<$0B>
+// ［うみ］[br]
+// いったーーい！！！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// なにをしているんでしゅか
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36C3D, 28)
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ちょっと[br]
+// ころんだだけよ
+<Umi>[br]
+
+[wait]
+
+// うるさいわね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36C61, 16)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// いたっ！！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36C72, 31)
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// あはははははっ
+<Umi>[br]
+
+[wait]
+
+// なーにやってるのよ[br]
+// ロテック
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36C95, 292)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ちょっと[br]
+// ころんだだけでしゅよ[br]
+// うるさいでしゅね
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// ぷ……ぷははははは[br]
+// なに　まねしてるのよ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// まねなんかしてないでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// まねしてたわよ　ぜったい
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// そうでしゅかね……
+<Lotek>[br]
+
+[wait]
+
+// おかしいでしゅね……
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// ははははは[br]
+// で　だいじょうぶ？[br]
+// ロテック？[br]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// だいじょうぶでしゅ
+<Lotek>[br]
+
+[wait]
+
+// それより　うみしゃんは？
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// だいじょうぶよ
+<Umi>[br]
+
+[wait]
+
+// ありがとう　ロテック
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// どういたしましてでしゅ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// じゃ　いこうか[br]
+// ロテック
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はい　でしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36DD9, 122)
+
+[fd]<$09>
+[portrait]<$0B>
+// ［うみ］[br]
+// あーー　つかれたー！
+<Umi>[br]
+
+[wait]
+
+// いったいどこまでつづくのよ[br]
+// まったく！
+
+[wait]
+
+// もりといい　きのなかと[br]
+// いい　さいげんないん[br]
+// だから！
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// あるいていれば[br]
+// いつかはつくでしゅよ……
+<Lotek>[br]
+
+[wait]
+
+// これをたべるといいでしゅ[br]
+// げんきがでましゅよ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36E57, 139)
+
+[fe]<$05>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// なによ　これ……
+<Umi>[br]
+
+[wait]
+
+// まつぼっくりじゃない
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ……まつぼっくり？
+<Lotek>[br]
+
+[wait]
+
+// ちがいましゅよ
+
+[wait]
+
+// もりにすんでるみんなは[br]
+// いつもこれをもってて
+
+[wait]
+
+// つかれたときなんかにたべて[br]
+// げんきをだしているでしゅ
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ふーん……
+<Umi>[br]
+
+[wait]
+
+// じゃあ　いただくわ
+
+[wait]
+
+// ………………
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36EE6, 240)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// うん　まあまあね
+<Umi>[br]
+
+[wait]
+
+// ……ところでロテック[br]
+// あなたはたべないの？
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// え……[br]
+// あ　ぼくはいいでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ……そう
+<Umi>[br]
+
+[wait]
+
+// もしかして　さいごの[br]
+// １こだったんじゃない？
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// きにすることないでしゅよ
+<Lotek>[br]
+
+[wait]
+
+// うみしゃんのおかげで[br]
+// いろんなところをたんけん[br]
+// できて　とってもたのしい[br]
+// でしゅから……
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ……ありがとう
+<Umi>[br]
+
+[wait]
+
+// さ　がんばらなきゃね
+
+[wait]
+
+// ロテックにこんなごちそう[br]
+// もらっちゃったんだから
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はいでしゅ！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x36FFC, 33)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// うみしゃん[br]
+// かたになにかついてる[br]
+// でしゅよ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37020, 53)
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// え　なに？[br]
+// とって　ロテック……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ちょっと[br]
+// あっちをむいてくだしゃい
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37058, 47)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ………………[br]
+// なんだ　けむしでしゅ[br]
+
+[clear]
+
+[portrait]<$0E>
+// ［うみ］[br]
+// け　けむし………
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37093, 29)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ど　どうしたんでしゅか[br]
+// うみしゃん！！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x370CB, 77)
+
+[portrait]<$0C>
+// ［うみ］[br]
+// ごめんなさい……[br]
+// ちょっと[br]
+// きをうしなってたみたい……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ……うみしゃん
+<Lotek>[br]
+
+[wait]
+
+// けむしが　せなかに[br]
+// はいっていったでしゅよ……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3711B, 23)
+
+[portrait]<$0E>
+// ［うみ］[br]
+// ひ　ひ[br]
+// ひえーーーーーーっ！！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37141, 32)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ………………
+<Lotek>[br]
+
+[wait]
+
+// ……うみしゃん
+
+[wait]
+
+// うそでしゅ……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3716C, 16)
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ロテックーー！！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37181, 18)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ひーーーでしゅ！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x371C7, 32)
+
+[fd]<$09>
+[portrait]<$0B>
+// ［うみ］[br]
+// しゃれにならないギャグは[br]
+// やめてよねーー！！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3720A, 37)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ゆるしてくだしゃい！[br]
+// ゆるしてくだしゃいーー！！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37252, 31)
+
+[fd]<$09>
+[portrait]<$0B>
+// ［うみ］[br]
+// こんど　うそついたら[br]
+// ゆるさないからね！！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37275, 24)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// もうしましぇんーー！！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x372B1, 29)
+
+[fd]<$09>
+[portrait]<$09>
+// ［うみ］[br]
+// ねぇ　ロテック
+<Umi>[br]
+
+[wait]
+
+// このくぼみ　なんだろ？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x372D1, 19)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// なんでしゅかね？
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x372E7, 21)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ……さわってみようか
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3730F, 39)
+
+[fd]<$09>
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// わっはっはっはっはっは[br]
+// ひー　やめろ　やめるんじゃ
+<Elder>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37342, 98)
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ちょ　ちょうろう
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ちょうろう
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// それは　わしの❞へそ❞じゃ
+<Elder>[br]
+
+[wait]
+
+// さわっちゃいかん
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// へそ……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// へそでしゅか？
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x373AE, 29)
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// へー　これが❞へそ❞なんだ
+<Umi>[br]
+
+[wait]
+
+// おもしろーい
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x373CE, 48)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// もういっかい[br]
+// さわってみたいでしゅね
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// ロテック！！！
+<Elder>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3740A, 73)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// じょうだんでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// さあ　はやくいくんじゃ
+<Elder>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// はーい
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はいでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3746A, 49)
+
+[portrait]<$0A>
+// ［うみ］[br]
+// もういっかいさわって[br]
+// みようか
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ぼくもさわって[br]
+// みたいでしゅ！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x374B2, 39)
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// わーはっはっはっはっは
+<Elder>[br]
+
+[wait]
+
+// こら　やめるんじゃ[br]
+// やめるんじゃ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x374E5, 45)
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// なんどやっても[br]
+// おもしろいわね
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// やめられないでしゅ！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37537, 54)
+
+[fd]<$09>
+[portrait]<$0E>
+// ［うみ］[br]
+// げっ！！[br]
+// しろありがわいてるわ！！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// うひゃー[br]
+// たくさんいるでしゅ！！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37570, 16)
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// グロテスクよね
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37583, 87)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// たいじしといたほうが[br]
+// いいでしゅかね？
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// そうね[br]
+// そのほうがいいわね
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ちょっと　どいてくだしゃい[br]
+// ぼくがやるでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x375EB, 19)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// むしゃ　むしゃ……
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37603, 28)
+
+[fd]<$09>
+[portrait]<$0E>
+// ［うみ］[br]
+// ひぇーーー！！
+<Umi>[br]
+
+[wait]
+
+// なにたべてんのよ！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37626, 97)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// おいしいでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0E>
+// ［うみ］[br]
+// しんじらんない……
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ぜんぶ[br]
+// いなくなったでしゅよ
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// これでちょうろうも[br]
+// すこしはながいき[br]
+// できるわね
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37696, 53)
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// お　ながねんいたんでいた[br]
+// ❞こし❞のいたみが[br]
+// なくなったわい
+<Elder>[br]
+
+[wait]
+
+// どうしたものかのう……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37737, 28)
+
+[portrait]<$0B>
+// ［うみ］[br]
+// いったーい！！
+<Umi>[br]
+
+[wait]
+
+// あしがすべっちゃった……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37757, 26)
+
+[portrait]<$09>
+// ［うみ］[br]
+// すべらないように[br]
+// きをつけなきゃ……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x377D6, 53)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// どうしたんでしゅか？
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ちょうどいい❞おちば❞が[br]
+// あるとおもって……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37811, 92)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// それがどうしたんでしゅか？
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ……やきいもをつくるには[br]
+// ちょうどいいかなって
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ❞いも❞はないでしゅけど[br]
+// これならありましゅよ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37890, 26)
+
+[fd]<$09>
+[portrait]<$0E>
+// ［うみ］[br]
+// げっ！[br]
+// でっかい❞どんぐり❞……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x378AD, 42)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// これをやいたら[br]
+// おいしいでしゅ！
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// たべようか！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x378DA, 21)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// たべるでしゅ！！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37918, 21)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ❞ひ❞をつけるでしゅ！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37941, 45)
+
+[portrait]<$0A>
+// ［うみ］[br]
+// やった！[br]
+// あとはやけるのを[br]
+// まつだけね
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// たのしみでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37976, 16)
+
+[portrait]<$09>
+// ［うみ］[br]
+// なにかしら……？
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37989, 81)
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// お　おまえたち！！[br]
+// そこで[br]
+// なにをしておるっ！！
+<Elder>[br]
+
+[wait]
+
+// ここは　わしのからだの[br]
+// なかなんじゃぞ！！！
+
+[wait]
+
+// は　はやく[br]
+// その❞ひ❞を[br]
+// けすんじゃ！！！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x379DF, 35)
+
+[fd]<$09>
+[portrait]<$0B>
+// ［うみ］[br]
+// そ　そういえば[br]
+// ここはちょうろうのなか[br]
+// だったわ！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37A05, 47)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ロテック！[br]
+// はやく❞ひ❞をけして！！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はいでしゅ！！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37A54, 70)
+
+[fd]<$09>
+[portrait]<$1D>
+// ［ロテック］[br]
+// なんとか[br]
+// きえたみたいでしゅね
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ちょっと　あせったわ
+<Umi>[br]
+
+[wait]
+
+// じゅみょうが１００にち[br]
+// ぐらい　ちぢんだみたい
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37A9D, 137)
+
+[clear]
+
+[portrait]<$0B>
+// ちょうろう　ごめんね
+
+[wait]
+
+// だいじょうぶだった？
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// まだ　ひりひりするわい
+<Elder>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ごめんなさいでしゅ……
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// きにするでない
+<Elder>[br]
+
+[wait]
+
+// それよりも[br]
+// はやくさきにすすむのじゃ
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// わかったわ[br]
+// ほんとにごめんね[br]
+// ちょうろう
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37B29, 30)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$08>
+// いこう　ロテック
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// はいでしゅ
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37B5F, 109)
+
+[portrait]<$1E>
+// ［ちょうろう］[br]
+// ふむ　ほんとうは[br]
+// ❞おきゅう❞をすえたみたい[br]
+// で　きもちよかったんじゃけ[br]
+// どもな……
+<Elder>[br]
+
+[wait]
+
+// ほんとうに❞かじ❞にでも[br]
+// なったらたいへん[br]
+// じゃからの……
+
+[wait]
+
+// いきたまま❞かそう❞に[br]
+// されるのは　ごめんじゃぞい
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37C29, 40)
+
+[fd]<$09>
+[portrait]<$0F>
+// ［ふう］[br]
+// まあ……[br]
+// ここは❞え❞のなかでみた[br]
+// ふうけいにそっくりですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37C54, 10)
+
+// ねえ　うみさん……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37C60, 22)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$15>
+// …[delay]<$01>…[delay]<$01>…[delay]<$01>…[delay]<$01>…[delay]<$01>…
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37C85, 68)
+
+[portrait]<$10>
+// ［ふう］[br]
+// あら？[br]
+// ひかるさんもいませんわ
+<Fuu>[br]
+
+[wait]
+
+// どうやら　わたくしひとりが[br]
+// ここにきたみたいですわ
+
+[wait]
+
+// なんとかみなさんを[br]
+// さがさないと……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37CFA, 23)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// まあ　みはらしが[br]
+// いいですこと
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37D13, 56)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ここは　たかい❞たてもの❞[br]
+// の　おくじょうみたい[br]
+// ですわね
+<Fuu>[br]
+
+[wait]
+
+// とりあえず　したへ[br]
+// おりてみましょう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37D97, 35)
+
+[portrait]<$01>
+// ［ひかる］[br]
+// あれー？[br]
+// ここはどこだろ？[br]
+// なんかの❞しんでん❞かな
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37DC3, 38)
+
+[portrait]<$02>
+// ［ひかる］[br]
+// それにしても[br]
+// うみちゃんと　ふうちゃんは[br]
+// どうしたんだろ？
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37DF5, 19)
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ひ　ひかるじゃない！？
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37E0F, 20)
+
+[fd]<$09>
+[portrait]<$03>
+// ［ひかる］[br]
+// あっ！[br]
+// うみちゃん
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37E31, 126)
+
+[clear]
+
+[portrait]<$01>
+// うみちゃん　ぶじだったんだ
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// なんとかね
+<Umi>[br]
+
+[wait]
+
+// それより　ふうは？
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// しらない
+<Hikaru>[br]
+
+[wait]
+
+// うみちゃんといっしょじゃ[br]
+// なかったんだ……
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// いっしょじゃなかったわ
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ふうちゃんがしんぱいだ[br]
+// さがしにいこう
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37EBB, 16)
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ちょっとまった
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37ECE, 76)
+
+[clear]
+
+[portrait]<$09>
+// うかつにうごいたら[br]
+// すれちがいになるかもしれな[br]
+// いじゃない[br]
+// ひかるがここにきたんなら[br]
+// ふうもここにくるかくりつが[br]
+// おおきいわ[br]
+// ここでまちましょう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37F28, 16)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// わかった
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37F40, 14)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ひかるさん！
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37F55, 20)
+
+[fd]<$09>
+[portrait]<$03>
+// ［ひかる］[br]
+// あっ！[br]
+// ふうちゃん
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37F76, 46)
+
+[clear]
+
+[portrait]<$03>
+// ふうちゃん[br]
+// ぶじだったんだ！
+
+[wait]
+
+[clear]
+
+[portrait]<$11>
+// ［ふう］[br]
+// ひかるさんも
+<Fuu>[br]
+
+[wait]
+
+// またあえてうれしいですわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x37FAF, 180)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// あれ？　うみちゃんは？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// まだ　どこにいるか[br]
+// わかりませんの
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// よし　さがしにいこう！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// いいえ[br]
+// ここでまっていたほうが[br]
+// あえるかくりつが[br]
+// おおそうですわ
+<Fuu>[br]
+
+[wait]
+
+// だって　ひかるさんも[br]
+// ここにきたんですもの
+
+[wait]
+
+// うみさんも　きっと[br]
+// いらっしゃいますわ
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// うん　わかった！[br]
+// ここで　まとう！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38072, 29)
+
+[fd]<$09>
+[portrait]<$0B>
+// ［うみ］[br]
+// ひかる！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ひかるさん！
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38093, 158)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// うみちゃん　ふうちゃん！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$11>
+// ［ふう］[br]
+// ぶじだったのですね[br]
+// ひかるさん
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// みんなも！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// まったく[br]
+// しんぱいかけるわね
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// ごめん
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// まあいいわ
+<Umi>[br]
+
+[wait]
+
+// みんなそろったし[br]
+// はやくこの❞しんでん❞を[br]
+// だっしゅつしよう！
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// うん！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3815E, 21)
+
+[fd]<$09>
+[portrait]<$09>
+// ［うみ］[br]
+// へえ　❞しんでん❞だわ
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3817E, 37)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// それにしても　あのふたりは[br]
+// どこにいったのかしら……
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x381AF, 17)
+
+[fd]<$09>
+[portrait]<$03>
+// ［ひかる］[br]
+// うみちゃん！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x381D2, 17)
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// ひかるじゃない！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x381FA, 67)
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// わーい　うみちゃん[br]
+// ぶじだったんだ！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ちょっと　ひかる[br]
+// おちつきなさい！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// はーい
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38248, 136)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ふうはどうしたの？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// どこにいったかわからない
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ふーん……
+<Umi>[br]
+
+[wait]
+
+// わたしとひかるがここに[br]
+// いるってことは　ふうも[br]
+// ここにくるかのうせいが[br]
+// おおきいってことね
+
+[wait]
+
+// ここで　ふうがくるのを[br]
+// まってみましょう
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// うん！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x382D8, 15)
+
+[fd]<$09>
+[portrait]<$0F>
+// ［ふう］[br]
+// うみさん！
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x382ED, 17)
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ふうじゃない！？
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3830B, 34)
+
+[clear]
+
+[portrait]<$11>
+// ［ふう］[br]
+// ごぶじでなによりですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// あなたもね
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38338, 144)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ところで　ひかるは？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// わかりません[br]
+// でも　うみさんが[br]
+// この❞しんでん❞にきたとい[br]
+// うことは[br]
+// ひかるさんも　ここにくる[br]
+// かのうせいがおおきいですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// そうね　この❞しんでん❞で[br]
+// まってみましょう
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ええ　それがけんめいですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x383D2, 17)
+
+[fd]<$09>
+[portrait]<$01>
+// ［ひかる］[br]
+// うみちゃん！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x383F9, 97)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// みんな！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$11>
+// ［ふう］[br]
+// みんな[br]
+// ぶじでよかったですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// さあ[br]
+// うみちゃんもそろったし[br]
+// はやくこの❞しんでん❞を[br]
+// だっしゅつしよう！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// そうね
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38487, 33)
+
+[fd]<$09>
+[portrait]<$11>
+// ［ふう］[br]
+// まあ　なんてきれいな[br]
+// ❞しんでん❞なんでしょう
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x384B3, 46)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// それにしても　ひかるさんと[br]
+// うみさんはどこにいって[br]
+// しまったんでしょう
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x384ED, 17)
+
+[fd]<$09>
+[portrait]<$03>
+// ［ひかる］[br]
+// ふうちゃん！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38504, 16)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ひかるさん！？
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38521, 51)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ぶじだったのですね[br]
+// ひかるさん[br]
+// しんぱいしましたわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// ふうちゃんも！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3855F, 185)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// うみさんは……
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// どこにいるかわからない……
+<Hikaru>[br]
+
+[wait]
+
+// ふうちゃん[br]
+// さがしにいってみようか？
+
+[wait]
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// いいえ[br]
+// いきちがいになったら[br]
+// こまりますわ
+<Fuu>[br]
+
+[wait]
+
+// わたくしと　ひかるさんが[br]
+// ここにでてきたのですから[br]
+// たぶんうみさんもここに[br]
+// いらっしゃるでしょう
+
+[wait]
+
+// それまで[br]
+// まつしかなさそうですわ
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// うん　わかった[br]
+// ここでいっしょにまとう
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38620, 13)
+
+[fd]<$09>
+[portrait]<$08>
+// ［うみ］[br]
+// ふう！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38633, 17)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// うみさん！？
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38658, 194)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// よかった　うみさん[br]
+// ぶじだったのですね
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ふう　ひかるをみなかった？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// いいえ[br]
+// わたくしはいっしょでは[br]
+// ありませんでしたわ[br]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// まったく　げんきなこね[br]
+// しょうがないわ
+<Umi>[br]
+
+[wait]
+
+// ふうもここにたどりついた[br]
+// ことだし[br]
+// ひかるも　くるかのうせいが[br]
+// おおきいわね[br]
+// ここでまってみましょう
+
+[wait]
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ええ　わたくしも[br]
+// それがただしいとおもいます
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38724, 48)
+
+[fd]<$09>
+[portrait]<$03>
+// ［ひかる］[br]
+// ふうちゃん！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// ふうじゃない！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// みなさん！！
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3876B, 85)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$11>
+// ［ふう］[br]
+// みなさんぶじで[br]
+// よかったですわ！
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// よーし！[br]
+// みんなぶじだとわかったから[br]
+// さっさとこんなところ[br]
+// でよう！！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// さんせい
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3882C, 78)
+
+[portrait]<$03>
+// ［ひかる］[br]
+// あっ！　そとにでられる！！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$11>
+// ［ふう］[br]
+// ここがでぐちなんですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0A>
+// ［うみ］[br]
+// モコナもみえるしね
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$03>
+// ［ひかる］[br]
+// じゃあ　でよう！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3887D, 14)
+
+[portrait]<$0B>
+// ［うみ］[br]
+// な　なに！？
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x388A0, 310)
+
+[portrait]<$04>
+// ［ひかる］[br]
+// だれだ！！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$23>
+// ［ザガート］[br]
+// わたしは　ザガート
+<Zagato>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ザガート！？
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// ここで[br]
+// けっちゃくをつけるぞ！！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$12>
+// ［ふう］[br]
+// まって！
+<Fuu>[br]
+
+[wait]
+
+// あのザガートさんは[br]
+// なにかへんですわ
+
+[wait]
+
+// だってからだが[br]
+// すけてますもの
+
+[wait]
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ほ　ほんとだわ
+<Umi>[br]
+
+[wait]
+
+// じゃあ　あれは
+
+[wait]
+
+[clear]
+
+[portrait]<$23>
+// ［ザガート］[br]
+// ふふふ……
+<Zagato>[br]
+
+[wait]
+
+// よくみやぶったな……[br]
+// マジックナイトよ
+
+[wait]
+
+// たしかにわたしは[br]
+// ❞ざんりゅうしねん❞
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// ❞ざんりゅうしねん❞！？
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$12>
+// ［ふう］[br]
+// たぶん　ザガートさんが[br]
+// あの❞え❞をかいたときの[br]
+// おもいが[br]
+// ぐげんかしているのです
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$23>
+// ［ザガート］[br]
+// いかにも
+<Zagato>[br]
+
+[wait]
+
+// しかしおまえたちなどに[br]
+// まけはしないぞ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x389D9, 65)
+
+[portrait]<$04>
+// ［ひかる］[br]
+// ３にんに　わかれた？！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$23>
+// ［ザガート］[br]
+// ふふふ……
+<Zagato>[br]
+
+[wait]
+
+// おまえたちをころすまえに[br]
+// おもしろいものを[br]
+// みせてやろう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38ADD, 186)
+
+[portrait]<$12>
+// ［ふう］[br]
+// ああ　トリュースさん！！
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ロテック！　ちょうろう！！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// みんな！！
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$23>
+// ［ザガート］[br]
+// この❞え❞はな[br]
+// ❞まもの❞をセフィーロに[br]
+// おくりだす[br]
+// いわば❞まもの❞せいぞうき[br]
+// のようなものだ
+<Zagato>[br]
+
+[wait]
+
+// そして　やつらは[br]
+// わたしがそうぞうしてやった[br]
+// というのに[br]
+// おまえらにくみした[br]
+// これは　その❞ばつ❞だ！！
+
+[wait]
+
+[clear]
+
+[portrait]<$05>
+// ［ひかる］[br]
+// そんな…………
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38C17, 31)
+
+[portrait]<$23>
+// ［ザガート］[br]
+// ふはは　みんな❞はい❞に[br]
+// なってしまえ！！
+<Zagato>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38C3F, 56)
+
+[fd]<$09>
+[portrait]<$22>
+// ［トリュースのこえ］[br]
+// ふう！　なにをしている！
+<Tryuce's Voice>[br]
+
+[wait]
+
+// おまえは[br]
+// わたしをたおした[br]
+// つわものではなかったのか！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38C7A, 130)
+
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// ト　トリュースさん！
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1E>
+// ［ちょうろうのこえ］[br]
+// うみ[br]
+// わしのことなどきにするな
+<Elder's Voice>[br]
+
+[wait]
+
+// こうなることはわかっていて[br]
+// おまえをとびらに[br]
+// みちびいたのじゃ
+
+[wait]
+
+// おまえには[br]
+// もっとおおきな❞しめい❞が[br]
+// あるのじゃろうが！
+
+[wait]
+
+// こんなところで[br]
+// くっしてどうする！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38CFF, 25)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテックのこえ］[br]
+// うみしゃん　まけるな！
+<Lotek's Voice>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38D1B, 104)
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ロテック！　ちょうろう！！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデルのこえ］[br]
+// ひかる[br]
+// こんなことでくじけるな！
+<Ladel's Voice>[br]
+
+[wait]
+
+// きみは　この❞え❞のなかで[br]
+// したがうことしか[br]
+// できなかったオレたちを[br]
+// すくってくれた[br]
+// えいゆうなんだ！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38D86, 61)
+
+[clear]
+
+[portrait]<$1A>
+// ［リーファのこえ］[br]
+// まけないで　ひかるさん！！
+<Leafa's Voice>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［ロゼッタのみんなのこえ］[br]
+// たちあがってくれ[br]
+// ひかるさん！！
+<All Rosettans>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38DC6, 28)
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// ラデルさん　リーファさん[br]
+// みんな！！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38DE7, 22)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$00>
+// ［みんなのこえ］[br]
+// まけないで！！
+<Everyone>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38E0E, 217)
+
+[portrait]<$12>
+// ［ふう］[br]
+// そうですわ
+<Fuu>[br]
+
+[wait]
+
+// わたくしたちは[br]
+// みんなの❞おもい❞を[br]
+// せおって　たたかったいるの[br]
+// でしたわ……
+
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// ザガート[br]
+// あなたによって[br]
+// くるしめられていた[br]
+// みんなの❞おもい❞をね！！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// わたしたちは[br]
+// ❞マジックナイト❞
+<Hikaru>[br]
+
+[wait]
+
+// みんなの❞おもい❞を[br]
+// ❞ちから❞にかえて[br]
+// おまえをうつ！！
+
+[wait]
+
+[clear]
+
+[portrait]<$23>
+// ［ザガート］[br]
+// ぬううう……[br]
+// そのおもい[br]
+// うちほろぼしてくれるわ！！
+<Zagato>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［ひかる・うみ・ふう］[br]
+// いくぞ　ザガート！！
+<Hikaru, Umi & Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38F13, 92)
+
+[portrait]<$23>
+// ［ザガート］[br]
+// さすがは[br]
+// ❞マジックナイト❞
+<Zagato>[br]
+
+[wait]
+
+// ❞ざんりゅうしねん❞[br]
+// とはいえ[br]
+// このわたしをたおすとは……
+
+[wait]
+
+// しかし　そんなうででは[br]
+// わたしのほんたいは[br]
+// たおせんぞ
+
+[wait]
+
+// ふふふ　はははは！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38F76, 34)
+
+[portrait]<$04>
+// ［ひかる］[br]
+// まけないわ！
+<Hikaru>[br]
+
+[wait]
+
+// わたしたちは[br]
+// ぜったいにまけない！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38FB9, 30)
+
+[fd]<$09>
+[portrait]<$09>
+// ［うみ］[br]
+// ここは　もうきけんね[br]
+// はやくでましょう！
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38FDA, 19)
+
+[clear]
+
+[portrait]<$04>
+// ［ひかる］[br]
+// でも　みんなが！！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x38FF0, 56)
+
+[clear]
+
+[portrait]<$12>
+// ［ふう］[br]
+// ひかるさん[br]
+// わたしたちがここで[br]
+// しんでしまっては[br]
+// みなさんを　さらに[br]
+// かなしませてしまいますわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3902B, 18)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$05>
+// ［ひかる］[br]
+// ………………
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39057, 18)
+
+[clear]
+
+[portrait]<$09>
+// ［うみ］[br]
+// ひかる　いそぐのよ
+<Umi>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x390F0, 26)
+
+[portrait]<$16>
+// ［モコナ］[br]
+// ぷっぷ　ぷう！
+<Mokona>[br]
+
+[sound]<$0F>
+[delay]<$01>
+[sound]<$0F>
+[delay]<$01>
+[sound]<$0F>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3912E, 26)
+
+[portrait]<$16>
+// ［モコナ］[br]
+// ぷっぷ　ぷう！
+<Mokona>[br]
+
+[sound]<$0F>
+[delay]<$01>
+[sound]<$0F>
+[delay]<$01>
+[sound]<$0F>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3918C, 162)
+
+[fd]<$09>
+[portrait]<$10>
+// ［ふう］[br]
+// やけてしまいましたわ……
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$05>
+// ［ひかる］[br]
+// みんな……
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$08>
+// ［うみ］[br]
+// ひかる……　ふう……
+<Umi>[br]
+
+[wait]
+
+// あのえのなかで　であった[br]
+// みんなは　いつまでも[br]
+// わたしたちのなかで[br]
+// いきてるわ……
+
+[wait]
+
+[clear]
+
+[portrait]<$05>
+// ［ひかる］[br]
+// ……うん……
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// ……そうですわね……
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$16>
+// ［モコナ］[br]
+// ぷっ　ぷっ　ぷう！
+<Mokona>[br]
+
+[sound]<$0F>
+[delay]<$01>
+[sound]<$0F>
+[delay]<$01>
+[sound]<$0F>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39231, 104)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// こーの　やくたたず！
+<Umi>[br]
+
+[wait]
+
+// なんでわたしたちを[br]
+// たすけて[br]
+// くれなかったのよ！！
+
+[wait]
+
+[clear]
+
+[portrait]<$16>
+// ［モコナ］[br]
+// ぷう？
+<Mokona>[br]
+
+[sound]<$0E>
+[wait]
+
+[clear]
+
+[portrait]<$0B>
+// ［うみ］[br]
+// もー　ゆるさないから！
+<Umi>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$16>
+// ［モコナ］[br]
+// ぷっ　ぷう！
+<Mokona>[br]
+
+[sound]<$0F>
+[delay]<$01>
+[sound]<$0F>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x392BE, 104)
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// うみちゃん……
+<Hikaru>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// ひかるさん……
+<Fuu>[br]
+
+[wait]
+
+// こんかいのぼうけんで[br]
+// いちばんかなしんでいるのは[br]
+// うみさんかもしれませんね
+
+[wait]
+
+// だって　あんなに[br]
+// つよがって……
+
+[wait]
+
+[clear]
+
+[portrait]<$02>
+// ［ひかる］[br]
+// …………うん
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39328, 50)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// さあ　わたくしたちも[br]
+// いきましょう
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$01>
+// ［ひかる］[br]
+// うん[br]
+// ザガートをたおすために！
+<Hikaru>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39445, 20)
+
+[fd]<$09>
+[portrait]<$22>
+// ［トリュース］[br]
+// こ　これは……
+<Tryuce>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3945C, 33)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ここは　えのそとのせかい[br]
+// じゃないでしゅか！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39480, 22)
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// いったい　どうしたんだ？
+<Ladel>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39499, 28)
+
+[clear]
+
+[portrait]<$1A>
+// ［リーファ］[br]
+// それに　わたしたち[br]
+// いきている……
+<Leafa>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x394B8, 20)
+
+[clear]
+
+[portrait]<$25>
+// ［ちょうろう］[br]
+// なるほどのう……
+<Elder>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39505, 321)
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// そのこえは[br]
+// ちょうろうでしゅか！？
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$25>
+// ［ちょうろう］[br]
+// ふぉっふぉっ
+<Elder>[br]
+
+[wait]
+
+// えのそとにでたからの
+
+[wait]
+
+// ザガートのまりょくが[br]
+// とけたんじゃよ
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ちょうろうは[br]
+// もともと❞き❞じゃなかった[br]
+// んでしゅね
+<Lotek>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// それより　なるほどとは[br]
+// どういういみなのですか？
+<Ladel>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$25>
+// ［ちょうろう］[br]
+// ふぉっふぉっ
+<Elder>[br]
+
+[wait]
+
+// おぬしたちは　わすれて[br]
+// おるようじゃな……
+
+[wait]
+
+// このセフィーロが[br]
+// ❞いし❞のせかいじゃという[br]
+// ことを……
+
+[wait]
+
+[clear]
+
+[portrait]<$1A>
+// ［リーファ］[br]
+// あ……
+<Leafa>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$25>
+// ［ちょうろう］[br]
+// うみたちは　ほんとうに[br]
+// わしたちのことを[br]
+// ❞しんでほしくない❞と[br]
+// おもったんじゃろう……
+<Elder>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$22>
+// ［トリュース］[br]
+// ふんっ！
+<Tryuce>[br]
+
+[wait]
+
+// またひとつ　❞かり❞が[br]
+// できたか……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3965A, 137)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$17>
+// ［ラデル］[br]
+// しかし　ひかるたちは[br]
+// これからほんとうのたたかい[br]
+// がはじまるのだ
+<Ladel>[br]
+
+[wait]
+
+// ひかるたちの　❞おん❞に[br]
+// むくいるためにも[br]
+// われらも　すこしでも[br]
+// このセフィーロをむしばむ[br]
+// まものたちをとめよう
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［みんなのこえ］[br]
+// おーーーー！
+<Everyone>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// おうでしゅ！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3971C, 22)
+
+[portrait]<$00>
+// ［みんなのこえ］[br]
+// わっはっはっはっは！
+<Everyone>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3973F, 40)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// ななな　なんでしゅか！
+<Lotek>[br]
+
+[wait]
+
+// ぼくだって　やくにたつんで[br]
+// しゅよ！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3977B, 37)
+
+[portrait]<$1D>
+// ［ロテック］[br]
+// えーん　うみしゃーん[br]
+// みんなが[br]
+// いじめるよーーーーー！
+<Lotek>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3989A, 20)
+
+[fd]<$09>
+[portrait]<$12>
+// ［ふう］[br]
+// まあ　なにかしら……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x398B3, 34)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// したのかいからなにか[br]
+// へんなおとがきこえますわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x398EC, 55)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// まあ[br]
+// きみのわるい❞ぞう❞……
+<Fuu>[br]
+
+[wait]
+
+// でも　このたてものの[br]
+// ふんいきには[br]
+// あっているかもしれませんね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39925, 25)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// きみのわるい[br]
+// ❞ぞう❞ですこと……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39956, 30)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// あら？
+<Fuu>[br]
+
+[wait]
+
+// こんなところになにか[br]
+// ありますわ……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39991, 80)
+
+[portrait]<$15>
+// ［ふう］[br]
+// ……どんぐり[delay]<$01>？[delay]<$01>？[delay]<$01>？
+<Fuu>[br]
+
+[wait]
+
+// ………………
+
+[wait]
+
+// なぜ　こんなところに[br]
+// どんぐりがあるんでしょう？
+
+[wait]
+
+// とりあえず[br]
+// もどしておいたほうが[br]
+// よさそうですわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x399F0, 30)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ふう……
+<Fuu>[br]
+
+[wait]
+
+// これでいいですわ
+
+[wait]
+
+// さ　いきましょう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39A10, 29)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ここは　ずいぶんたかい[br]
+// ところみたいですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39ACE, 43)
+
+[portrait]<$10>
+// ［ふう］[br]
+// まあ　この❞とびら❞に[br]
+// あう❞かぎ❞がありませんわ[br]
+// どうしましょう……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39B08, 23)
+
+[fb]<$12>
+[portrait]<$00>
+// ❞あかのかぎ❞を[br]
+// 　てにいれた[br]
+
+[delay]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39B3C, 23)
+
+[fb]<$12>
+[portrait]<$00>
+// ❞あおのかぎ❞を[br]
+// 　てにいれた[br]
+
+[delay]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39B59, 16)
+
+[portrait]<$10>
+// ［ふう］[br]
+// あきませんわ……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39B71, 29)
+
+[fd]<$09>
+[portrait]<$10>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39B8F, 25)
+
+[clear]
+
+[portrait]<$00>
+// 『たからばこや[br]
+// 　とびらにぶつかってみろ』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39BB0, 29)
+
+[fd]<$09>
+[portrait]<$10>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39BCE, 24)
+
+[clear]
+
+[portrait]<$00>
+// 『❞かぎ❞でとじられた[br]
+// 　とびらがある』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39D40, 24)
+
+[fb]<$12>
+[portrait]<$00>
+// ❞きいろのかぎ❞を[br]
+// 　てにいれた[br]
+
+[delay]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39D5C, 37)
+
+[portrait]<$10>
+// ［ふう］[br]
+// まあ　この❞とびら❞[br]
+// あきませんわ……
+<Fuu>[br]
+
+[wait]
+
+// どうしましょう……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39D8D, 62)
+
+[portrait]<$10>
+// ［ふう］[br]
+// このとびら　うちがわから[br]
+// かぎが　かかっているみたい[br]
+// ですわ
+<Fuu>[br]
+
+[wait]
+
+// でも　このとびらにあう[br]
+// かぎはもっていませんわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39DD3, 29)
+
+[fd]<$09>
+[portrait]<$0F>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39DF1, 30)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$00>
+// 『スイッチによってかいへい[br]
+// 　するとびらがある』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39F2E, 37)
+
+[portrait]<$10>
+// ［ふう］[br]
+// まあ　この❞とびら❞[br]
+// あきませんわ……[br]
+// どうしましょう……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39F5D, 47)
+
+[portrait]<$11>
+// ［ふう］[br]
+// きっと[br]
+// これがさきほどの[br]
+// メッセージにあったスイッチ[br]
+// ですわ
+<Fuu>[br]
+
+[wait]
+
+// おしてみましょう
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39F95, 23)
+
+[portrait]<$10>
+// ［ふう］[br]
+// この❞かべ❞[br]
+// なにかへんですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39FB6, 29)
+
+[fd]<$09>
+[portrait]<$10>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39FD8, 20)
+
+[clear]
+
+[portrait]<$00>
+// 『かくされたスイッチが[br]
+// 　ある』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x39FF0, 14)
+
+[portrait]<$00>
+// 『いきどまりをさがせ』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A012, 19)
+
+[portrait]<$10>
+// ［ふう］[br]
+// いきどまりみたいですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A039, 15)
+
+[fd]<$09>
+[portrait]<$14>
+// ［ふう］[br]
+// きゃあー！
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A049, 92)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$21>
+// ［まもの］[br]
+// だれだ！[br]
+// おれさまのねむりを[br]
+// さまたげるやつは！
+<Monster>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$12>
+// ［ふう］[br]
+// いきなり　つきとばすなんて[br]
+// ひどいですわ！
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$21>
+// ［まもの］[br]
+// うるさい！[br]
+// ころしてくれるわ！！
+<Monster>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A0AD, 18)
+
+[fd]<$09>
+[portrait]<$21>
+// ［まもの］[br]
+// ぎゃあーーー！
+<Monster>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A0C6, 27)
+
+[fe]<$09>
+[fb]<$12>
+[clear]
+
+[portrait]<$00>
+// ❞みどりのかぎ❞を[br]
+// 　てにいれた[br]
+
+[delay]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A0EB, 62)
+
+[portrait]<$10>
+// ［ふう］[br]
+// このとびら　うちがわから[br]
+// かぎが　かかっているみたい[br]
+// ですわ
+<Fuu>[br]
+
+[wait]
+
+// でも　このとびらにあう[br]
+// かぎはもっていませんわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A15C, 37)
+
+[portrait]<$10>
+// ［ふう］[br]
+// まあ　この❞とびら❞[br]
+// あきませんわ……[br]
+// どうしましょう……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A197, 40)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// だいぶひくくなってきました[br]
+// けど……
+<Fuu>[br]
+
+[wait]
+
+// まだまださきはながいですわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A237, 29)
+
+[fd]<$09>
+[portrait]<$10>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A255, 33)
+
+[clear]
+
+[portrait]<$00>
+// 『とびらは３たいの[br]
+// 　❞ぞう❞によって[br]
+// 　とじられている』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A285, 57)
+
+[fd]<$09>
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『とい　に　こたえよ
+<Ominous Statue>[br]
+
+[wait]
+
+// 　おまえの　な　はなんと[br]
+// 　もうす』
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A2C2, 46)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// あら　ひとになまえを[br]
+// たずねるときには[br]
+// まず　じぶんから[br]
+// なのるものですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A2F4, 89)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// わたくしは[br]
+// ❞ほうおうじ　ふう❞と[br]
+// もうしますわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『かわった　な　だ
+<Ominous Statue>[br]
+
+[wait]
+
+// 　おまえはどこからきた』
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A351, 26)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// あなたのしらないところから[br]
+// ですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A36C, 45)
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『……なにをしにきた』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A39D, 77)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// べつに　なにをしている[br]
+// わけでもありませんわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『わが　といにこたえぬ[br]
+// 　ものを　とおすわけには[br]
+// 　いかん』
+<Ominous Statue>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A3EE, 75)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// とうきょう　という[br]
+// ところですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『おまえは[br]
+// 　マジックナイトか』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A43D, 60)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ……いいえ　ちがいますわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『では　なにものなのだ』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A47D, 59)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// なにものでも　ありません
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『あやしいやつだ[br]
+// 　とおすわけには　いかん』
+<Ominous Statue>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A4BC, 78)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// このなかをみてまわっている[br]
+// だけですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『したのかいへ[br]
+// 　いきたいのか』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A50E, 70)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// いいえ　ただそれとなく[br]
+// あるいているだけですから
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『わかった　では[br]
+// 　もとのところへかえれ』
+<Ominous Statue>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A558, 58)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// そうよばれています
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『ザガートさまのてきを[br]
+// 　とおすわけにはいかん』
+<Ominous Statue>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A596, 64)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// できれば　そうしたいと[br]
+// おもっていますわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『わかった[br]
+// 　つうこうをきょかしよう』
+<Ominous Statue>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A5DC, 16)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// たびのものです
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A5F7, 24)
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『………………』
+<Ominous Statue>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A61E, 76)
+
+[fd]<$09>
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『ひさしぶりの[br]
+// 　おきゃくですね……
+<Ominous Statue>[br]
+
+[wait]
+
+// 　どうしてあなたは[br]
+// 　ここにいるのですか』
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A66E, 31)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ここのなかを　みてまわって[br]
+// いるところですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A691, 106)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// もりをあるいていたはずです[br]
+// のに　きがついたら[br]
+// おくじょうにいたんです
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『つまり　あなたはそとの[br]
+// 　せかいからきたの[br]
+// 　ですね』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A6FF, 97)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// それは　わたしにも[br]
+// わかりません
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『そうですか　わかりました
+<Ominous Statue>[br]
+
+[wait]
+
+// 　このしたは　さらにきけん[br]
+// 　な❞まもの❞がいます
+
+[wait]
+
+// 　かえったほうが[br]
+// 　いいですよ』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A76A, 82)
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『そうですか
+<Ominous Statue>[br]
+
+[wait]
+
+// 　このなかは　かんたんに[br]
+// 　あるけないように　しかけ[br]
+// 　が　ほどこされていますが[br]
+// 　それらをはずしてきたの[br]
+// 　ですか』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A7C0, 96)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// うまくかわしてきましたわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『あなたは　うそをついて[br]
+// 　いますね
+<Ominous Statue>[br]
+
+[wait]
+
+// 　ここはしかけをとかないと[br]
+// 　あるけないようになって[br]
+// 　います
+
+[wait]
+
+// 　かえりなさい』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A824, 102)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ここが　セフィーロとちがう[br]
+// せかいでしたら　そういうこ[br]
+// とになりますわね
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『では　どうやってこの[br]
+// 　せかいにきたのですか』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A88E, 60)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// さきほどもおはなししました[br]
+// ように　もりをあるいていま[br]
+// したら　ここのおくじょうに[br]
+// きてしまったのです
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A8CE, 99)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ええ　なんとかはずして[br]
+// きましたわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『このしたは　もっと[br]
+// 　むずかしいしかけが[br]
+// 　あります
+<Ominous Statue>[br]
+
+[wait]
+
+// 　わるいことはいいません
+
+[wait]
+
+// 　かえったほうが[br]
+// 　いいですよ』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A935, 145)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// セフィーロをすくうために[br]
+// なかまといっしょにたびを[br]
+// していたら　もりのなかで[br]
+// ❞え❞をみつけたんです
+<Fuu>[br]
+
+[wait]
+
+// そのえをみていて……[br]
+// きがついたらここに[br]
+// いたんです
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『………もしや　あなたは[br]
+// 　マジックナイトでは？』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A9CA, 19)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// いいえ　ちがいますわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3A9E1, 304)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// セフィーロでは[br]
+// そういうことになっています
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『やはりそうでしたか
+<Ominous Statue>[br]
+
+[wait]
+
+// 　わたしはここで[br]
+// 　ごしゅじんさまから[br]
+// 　したのかいへ　いこうと[br]
+// 　するものを　みはる[br]
+// 　やくめを　おおせつかって[br]
+// 　います
+
+[wait]
+
+// 　しかし　わたしが[br]
+// 　したのかいへ　いくことを[br]
+// 　みとめたひとにたいして[br]
+// 　ごしゅじんさまがどういう[br]
+// 　❞しうち❞をしているのか[br]
+// 　しってしまったのです
+
+[wait]
+
+// 　そのことをしってから……
+
+[wait]
+
+// 　わたしは　だれもしたに[br]
+// 　とおしたことはありません
+
+[wait]
+
+// 　しかし　あなたなら[br]
+// 　ごしゅじんさまをとめる[br]
+// 　ことができるかも……
+
+[wait]
+
+// 　かぎのひとつをはずして[br]
+// 　おきます
+
+[wait]
+
+// 　どうか　きをつけて』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3AB24, 54)
+
+[fd]<$09>
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『なんだ　こむすめ[br]
+// 　なにをしにきた』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3AB5E, 86)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// べつに……
+<Fuu>[br]
+
+[wait]
+
+// ここをけんがくしている[br]
+// だけですわ
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『なんのためにけんがく[br]
+// 　しているのだ』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3ABB8, 71)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// なんとなく……ですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『つまり　おまえは[br]
+// 　ひまなのだな』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3AC03, 53)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ひまではありませんわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『ならば　さっさと[br]
+// 　かえるんだな』
+<Ominous Statue>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3AC3C, 29)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ここのでぐちをさがしている[br]
+// ところですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3AC5D, 25)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// そとにでたいと[br]
+// おもいまして……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3AC77, 53)
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『どこにでぐちがあるか[br]
+// 　しりたいか』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3ACB0, 85)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// いいえ　けっこうですわ
+<Fuu>[br]
+
+[wait]
+
+// じぶんでさがしますから
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『ふん　ならば[br]
+// 　したへいきたいのか』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3AD09, 76)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// いいえ　べつに……
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『でぐちをさがしているの[br]
+// 　ではなかったのか？』
+<Ominous Statue>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// しょうじきに[br]
+// こたえますか？
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3AD59, 70)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// いいえ　べつに……
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『おまえは　さっきと[br]
+// 　いっていることがちがうぞ
+<Ominous Statue>[br]
+
+[wait]
+
+// 　きにくわん　かえれ』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3ADA3, 76)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ごぞんじでしたら[br]
+// おしえてほしいですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『ふん　だれがおまえなんぞ[br]
+// 　におしえるか
+<Ominous Statue>[br]
+
+[wait]
+
+// 　かえれ！かえれ！』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3ADF3, 76)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ええ　ひまですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『そうか　では　このかいを[br]
+// 　ぞんぶんにけんがくするが[br]
+// 　よい
+<Ominous Statue>[br]
+
+[wait]
+
+// 　ははははははは……』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3AE43, 69)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ええ　いきたいとおもって[br]
+// いますわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『ふっ[br]
+// 　おまえなんかをしたには[br]
+// 　いかせん　かえれ』
+<Ominous Statue>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3AE8C, 81)
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ……おもったとおりですわ
+<Fuu>[br]
+
+[wait]
+
+// でぐちは　したに[br]
+// あるのですね
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// ［きみのわるい　ぞう］[br]
+// 『ぐ……
+<Ominous Statue>[br]
+
+[wait]
+
+// 　わかった　したへの[br]
+// 　とびらをあけておこう』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3AF06, 37)
+
+[portrait]<$10>
+// ［ふう］[br]
+// まあ　この❞とびら❞[br]
+// あきませんわ……[br]
+// どうしましょう……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B069, 30)
+
+[portrait]<$10>
+// ［ふう］[br]
+// ❞とびら❞になにか[br]
+// しかけがあるようですわね
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B089, 37)
+
+[portrait]<$10>
+// ［ふう］[br]
+// まあ　この❞とびら❞[br]
+// あきませんわ……[br]
+// どうしましょう……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B0B4, 43)
+
+[portrait]<$10>
+// ［ふう］[br]
+// まあ　この❞とびら❞に[br]
+// あう❞かぎ❞がありませんわ[br]
+// どうしましょう……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B0EB, 43)
+
+[portrait]<$10>
+// ［ふう］[br]
+// まあ　この❞とびら❞に[br]
+// あう❞かぎ❞がありませんわ[br]
+// どうしましょう……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B12D, 31)
+
+[fb]<$12>
+[portrait]<$00>
+// ❞ドラゴンをかたどった[br]
+// 　ぞう❞を　てにいれた[br]
+
+[delay]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B159, 46)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ここにも❞ぞう❞が[br]
+// はいってますわ
+<Fuu>[br]
+
+[wait]
+
+// でも　これいじょうはもって[br]
+// いけませんわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B19D, 31)
+
+[fb]<$12>
+[portrait]<$00>
+// ❞オオカミをかたどった[br]
+// 　ぞう❞を　てにいれた[br]
+
+[delay]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B1C9, 46)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ここにも❞ぞう❞が[br]
+// はいってますわ
+<Fuu>[br]
+
+[wait]
+
+// でも　これいじょうはもって[br]
+// いけませんわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B205, 23)
+
+[fb]<$12>
+[portrait]<$00>
+// ❞しろのかぎ❞を[br]
+// 　てにいれた[br]
+
+[delay]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B231, 31)
+
+[fb]<$12>
+[portrait]<$00>
+// ❞コンドルをかたどった[br]
+// 　ぞう❞を　てにいれた[br]
+
+[delay]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B25D, 46)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// ここにも❞ぞう❞が[br]
+// はいってますわ
+<Fuu>[br]
+
+[wait]
+
+// でも　これいじょうはもって[br]
+// いけませんわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B299, 23)
+
+[fb]<$12>
+[portrait]<$00>
+// ❞くろのかぎ❞を[br]
+// 　てにいれた[br]
+
+[delay]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B317, 32)
+
+[portrait]<$10>
+// ［ふう］[br]
+// ここに　なにかおくように[br]
+// なっているみたいですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B339, 34)
+
+[fd]<$09>
+[portrait]<$0F>
+// ［ふう］[br]
+// ここに　なにかおくように[br]
+// なっているみたいですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B36D, 26)
+
+[fe]<$09>
+[portrait]<$11>
+// まあ　このぞうがぴったり[br]
+// おさまりましたわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B390, 33)
+
+[portrait]<$0F>
+// でも　この❞ぞう❞は[br]
+// ここには　おさまらない[br]
+// みたいですわね
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B3CC, 32)
+
+[portrait]<$10>
+// ［ふう］[br]
+// ここに　なにかおくように[br]
+// なっているみたいですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B3EE, 34)
+
+[fd]<$09>
+[portrait]<$0F>
+// ［ふう］[br]
+// ここに　なにかおくように[br]
+// なっているみたいですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B422, 26)
+
+[fe]<$09>
+[portrait]<$11>
+// まあ　このぞうがぴったり[br]
+// おさまりましたわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B45E, 32)
+
+[portrait]<$10>
+// ［ふう］[br]
+// ここに　なにかおくように[br]
+// なっているみたいですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B480, 34)
+
+[fd]<$09>
+[portrait]<$0F>
+// ［ふう］[br]
+// ここに　なにかおくように[br]
+// なっているみたいですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B4B4, 26)
+
+[fe]<$09>
+[portrait]<$11>
+// まあ　このぞうがぴったり[br]
+// おさまりましたわ
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B4EB, 29)
+
+[fd]<$09>
+[portrait]<$0F>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B509, 27)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$00>
+// 『たからはとびらのまえに[br]
+// 　おさめるのだ』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B535, 29)
+
+[fd]<$09>
+[portrait]<$0F>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B553, 33)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$00>
+// 『とびらをあけるには[br]
+// 　３つのたからが[br]
+// 　ひつようだ』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B68C, 29)
+
+[fd]<$09>
+[portrait]<$0F>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B6AA, 29)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$00>
+// 『スイッチのくみあわせで[br]
+// 　いきさきはかわる』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B6CF, 43)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// まあ　この❞とびら❞に[br]
+// あう❞かぎ❞がありませんわ[br]
+// どうしましょう……
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B70F, 23)
+
+[fb]<$12>
+[portrait]<$00>
+// ❞きんのかぎ❞を[br]
+// 　てにいれた[br]
+
+[delay]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B730, 29)
+
+[fd]<$09>
+[portrait]<$0F>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B74E, 21)
+
+[fe]<$09>
+[clear]
+
+[portrait]<$00>
+// 『あいことばは[br]
+// 　０　０　１』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B7D0, 37)
+
+[portrait]<$10>
+// ［ふう］[br]
+// まあ　この❞とびら❞[br]
+// あきませんわ……
+<Fuu>[br]
+
+[wait]
+
+// どうしましょう……
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B845, 16)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// あとすこしですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B916, 30)
+
+[portrait]<$10>
+// ［ふう］[br]
+// ❞とびら❞になにか[br]
+// しかけがあるようですわね
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B938, 53)
+
+[portrait]<$10>
+// ［ふう］[br]
+// このとびらは　スイッチを[br]
+// いれてから[br]
+// しばらくすると[br]
+// しまるしくみになっている[br]
+// ようですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B975, 23)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// また　しまってしまいました[br]
+// わ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B98E, 24)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// どうやら　まにあった[br]
+// ようですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B9A8, 33)
+
+[portrait]<$0F>
+// ［ふう］[br]
+// このとびらは[br]
+// こちらからはあかない[br]
+// みたいですわね
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B9E4, 22)
+
+[portrait]<$00>
+// ［なぞのこえ］[br]
+// いそげ！！いそぐのだ！
+<Mysterious Voice>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BA17, 44)
+
+[portrait]<$10>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// 『あともどりは　できない』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BA47, 17)
+
+[clear]
+
+[portrait]<$00>
+// 『あともどりは　できない』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BA5E, 48)
+
+[portrait]<$10>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// 『いそげ！[br]
+// 　なにをしている！！』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BA92, 21)
+
+[clear]
+
+[portrait]<$00>
+// 『いそげ！[br]
+// 　なにをしている！！』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BAAD, 48)
+
+[portrait]<$10>
+// ［ふう］[br]
+// ❞かべ❞になにかかいて[br]
+// あるようですわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$00>
+// 『さいたんきょりを[br]
+// 　あるくのだ』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BAE1, 21)
+
+[clear]
+
+[portrait]<$00>
+// 『さいたんきょりを[br]
+// 　あるくのだ』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BB39, 13)
+
+[portrait]<$00>
+// 『からっぽ　だった』
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BB4C, 30)
+
+[portrait]<$10>
+// ［ふう］[br]
+// ❞とびら❞になにか[br]
+// しかけがあるようですわね
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BBC8, 37)
+
+[portrait]<$11>
+// ［ふう］[br]
+// まあ　でぐちのようですわね[br]
+// やっとここから[br]
+// でられますのね
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BC01, 14)
+
+[fd]<$09>
+[portrait]<$14>
+// ［ふう］[br]
+// きゃあ！
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BC12, 272)
+
+[clear]
+
+[portrait]<$22>
+// ［トリュース］[br]
+// ぐはは！！[br]
+// おれさまの❞やしき❞に[br]
+// どんなやつがまよいこんだ[br]
+// かとおもえば[br]
+// こんなこむすめか！！
+<Tryuce>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$12>
+// ［ふう］[br]
+// わたくしに[br]
+// なんのようですか！？
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$22>
+// ［トリュース］[br]
+// おう[br]
+// そういえばわすれていたな[br]
+// なーに　ひさしぶりに[br]
+// うまそうなえさがまよいこん[br]
+// できたから[br]
+// しょくじにきたまでよ
+<Tryuce>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// えさ？
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$22>
+// ［トリュース］[br]
+// おしえてやろうか？
+<Tryuce>[br]
+
+[wait]
+
+// おまえのことだ！！
+
+[wait]
+
+[clear]
+
+[portrait]<$15>
+// ［ふう］[br]
+// え[delay]<$01>さ[delay]<$01>…[delay]<$01>…[delay]<$01>ですか
+<Fuu>[br]
+
+[wait]
+
+// なるほど
+
+[wait]
+
+[clear]
+
+[portrait]<$22>
+// ［トリュース］[br]
+// なーに[br]
+// いたいのなんていっしゅんだ
+<Tryuce>[br]
+
+[wait]
+
+// おとなしく[br]
+// ディナーになりな！！
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BD36, 322)
+
+[portrait]<$22>
+// ［トリュース］[br]
+// こ　こんなばかな……[br]
+// おれさまが[br]
+// こんなこむすめに……
+<Tryuce>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// まだ　たべられるわけには[br]
+// いきませんわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$22>
+// ［トリュース］[br]
+// こ　ころせ……
+<Tryuce>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$10>
+// ［ふう］[br]
+// いいえ[br]
+// あなたには[br]
+// もうたたかうちからは[br]
+// のこっていませんわ
+<Fuu>[br]
+
+[wait]
+
+// そんなあいてに　❞けん❞は[br]
+// ふるえません
+
+[wait]
+
+[clear]
+
+[portrait]<$22>
+// ［トリュース］[br]
+// くっ　きれいごとを……
+<Tryuce>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$0F>
+// ［ふう］[br]
+// あなたも　これからは[br]
+// こころをいれかえて[br]
+// くださいね
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$22>
+// ［トリュース］[br]
+// ふっ[br]
+// よのなか　つよいやつは[br]
+// いるものだ[br]
+// なまえをきいておこうか
+<Tryuce>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$11>
+// ［ふう］[br]
+// ❞ほうおうじ　ふう❞と[br]
+// もうしますわ
+<Fuu>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$22>
+// ［トリュース］[br]
+// オレをたおしたやつのなだ[br]
+// おぼえておくぞ
+<Tryuce>[br]
+
+[wait]
+
+[clear]
+
+[portrait]<$11>
+// ［ふう］[br]
+// こうえいですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BE84, 30)
+
+[portrait]<$22>
+// ［トリュース］[br]
+// ふっ　よのなか[br]
+// つよいやつはいるものだ
+<Tryuce>[br]
+
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3BEA4, 29)
+
+[portrait]<$11>
+// ［ふう］[br]
+// どうやら　ここが[br]
+// いちばんしたみたいですわ
+<Fuu>[br]
+
+[end]
+
+#ENDMSG()
+

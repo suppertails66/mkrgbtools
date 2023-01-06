@@ -1,0 +1,668 @@
+//===========================================================
+// battle: enemy names
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x2AE0, 8)
+
+// レプチリアン　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2AE8, 8)
+
+// レプチリアン　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2AF0, 8)
+
+// レプチリアン　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B04, 8)
+
+// ジャスパー　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B0C, 8)
+
+// ジャスパー　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B14, 8)
+
+// ジャスパー　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B28, 8)
+
+// フルフラワー　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B30, 8)
+
+// フルフラワー　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B38, 8)
+
+// フルフラワー　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B4C, 8)
+
+// ヘルタイガー　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B54, 8)
+
+// ブルータイガー　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B5C, 8)
+
+// キングタイガー　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B70, 8)
+
+// レッドウルブス　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B78, 8)
+
+// ツインズヘッド　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B80, 8)
+
+// ホワイトウルブス
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B94, 8)
+
+// ゴーレン　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B9C, 8)
+
+// ノースゴーレン　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BA4, 8)
+
+// ゴーレン　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BB8, 8)
+
+// レッドドラコ　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BC0, 8)
+
+// フリーズドラコ　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BC8, 8)
+
+// ドラコ　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BDC, 8)
+
+// デボット　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BE4, 8)
+
+// デボット　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BEC, 8)
+
+// デボット　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C00, 8)
+
+// ゲッペル　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C08, 8)
+
+// ゲッペル　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C10, 8)
+
+// ゲッペル　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C24, 8)
+
+// ドボス　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C2C, 8)
+
+// ドボス　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C34, 8)
+
+// ドボス　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C48, 8)
+
+// トリュース　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C50, 8)
+
+// トリュース　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C58, 8)
+
+// トリュース　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C6C, 8)
+
+// ザガート　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C74, 8)
+
+// ザガート　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C7C, 8)
+
+// ザガート　　　　
+
+
+#ENDMSG()
+
+//===========================================================
+// player character full names
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x3C26, 8)
+
+// しどう　ひかる　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3C32, 8)
+
+// りゅうざき　うみ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3C3E, 8)
+
+// ほうおうじ　ふう
+
+
+#ENDMSG()
+
+//===========================================================
+// sound test 2
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x6208, 15)
+
+// 　　　　ーサイレンスー　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6217, 15)
+
+// 　　　ゆずれない　ねがい　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6226, 15)
+
+// 　　こもれびのなかを……　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6235, 15)
+
+// 　　マジックナイトのちから　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6244, 15)
+
+// 　ゆうしゃのひかりをあびて　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6253, 15)
+
+// 　　　　やったね！！　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6262, 15)
+
+// そこに　ひそみすむ　ものども　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6271, 15)
+
+// 　　ＭＡＧＩＣ　ＬＯＧＩＣ　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6280, 15)
+
+// 　　　こはくいろのせかい　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x628F, 15)
+
+// くらきめいきゅうにひとり……　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x629E, 15)
+
+// やすらかなる　たましいにささぐ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62AD, 15)
+
+// 　　きょうは　だれかな？　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62BC, 15)
+
+// みんなのおもいをちからにかえて
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62CB, 15)
+
+// しろきかみがみ　くろききょこう
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62DA, 15)
+
+// 　　　まもののきょうい　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62E9, 15)
+
+// 　　ＢＬＡＣＫ　ＳＨＯＣＫ　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62F8, 15)
+
+// 　くろきしんかん　ザガート　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6307, 15)
+
+// 　ＴＨＥ　ＮＩＧＨＴＭＡＲＥ　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6316, 15)
+
+// 　　　なにをみつけたの？　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6325, 15)
+
+// へいわはきみのてによって！！　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6334, 15)
+
+// ロテックだいこうしん　ポヨン！
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6343, 15)
+
+// 　　　すべてがもえる……　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6352, 15)
+
+// ＴＨＡＮＸ　ーＵＭＩ　ＭＩＸー
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6361, 15)
+
+// 　　　　ほのおのや！　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6370, 15)
+
+// 　　　　みずのりゅう！　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x637F, 15)
+
+// 　　　みどりのしっぷう！　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x638E, 15)
+
+// 　　　きょうはだれだ？　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x639D, 15)
+
+// 　　　　きょうはひかる　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63AC, 15)
+
+// 　　　きょうはうみさん　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63BB, 15)
+
+// 　　　きょうはふうちゃん　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63CA, 15)
+
+// 　　　　　またね！　　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63D9, 15)
+
+// 　　　　　　やー　　　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63E8, 15)
+
+// 　　　　　　はっ　　　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63F7, 15)
+
+// 　　　　　　やっ　　　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6406, 15)
+
+// 　　　　　　いたっ　　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6415, 15)
+
+// 　　　　　　いてっ　　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6424, 15)
+
+// 　　　　　　いたぃ　　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6433, 15)
+
+// 　　　よしがんばるぞ！　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6442, 15)
+
+// 　　　がんばらなきゃ！　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6451, 15)
+
+// 　　　がんばりますわ！　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6460, 15)
+
+// 　　　　　　あぁ　　　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x646F, 15)
+
+// 　　　　　きゃあぁ　　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x647E, 15)
+
+// 　　　　　　きゃあ　　　　　　
+
+
+#ENDMSG()
+

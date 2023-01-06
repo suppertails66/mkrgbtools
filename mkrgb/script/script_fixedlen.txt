@@ -1,0 +1,720 @@
+//===========================================================
+// battle: enemy names
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x2AE0, 8)
+
+// レプチリアン　　
+Reptilian
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2AE8, 8)
+
+// レプチリアン　　
+Reptilian
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2AF0, 8)
+
+// レプチリアン　　
+Reptilian
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B04, 8)
+
+// ジャスパー　　　
+Giant Spider
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B0C, 8)
+
+// ジャスパー　　　
+Giant Spider
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B14, 8)
+
+// ジャスパー　　　
+Giant Spider
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B28, 8)
+
+// フルフラワー　　
+Full Flower
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B30, 8)
+
+// フルフラワー　　
+Full Flower
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B38, 8)
+
+// フルフラワー　　
+Full Flower
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B4C, 8)
+
+// ヘルタイガー　　
+Hell Tiger
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B54, 8)
+
+// ブルータイガー　
+Blue Tiger
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B5C, 8)
+
+// キングタイガー　
+King Tiger
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B70, 8)
+
+// レッドウルブス　
+Redwolves
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B78, 8)
+
+// ツインズヘッド　
+Twinheads
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B80, 8)
+
+// ホワイトウルブス
+Whitewolves
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B94, 8)
+
+// ゴーレン　　　　
+Golen
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2B9C, 8)
+
+// ノースゴーレン　
+North Golen
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BA4, 8)
+
+// ゴーレン　　　　
+Golen
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BB8, 8)
+
+// レッドドラコ　　
+Red Drake
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BC0, 8)
+
+// フリーズドラコ　
+Freeze Drake
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BC8, 8)
+
+// ドラコ　　　　　
+Drake
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BDC, 8)
+
+// デボット　　　　
+Debot
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BE4, 8)
+
+// デボット　　　　
+Debot
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2BEC, 8)
+
+// デボット　　　　
+Debot
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C00, 8)
+
+// ゲッペル　　　　
+Geppel
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C08, 8)
+
+// ゲッペル　　　　
+Geppel
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C10, 8)
+
+// ゲッペル　　　　
+Geppel
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C24, 8)
+
+// ドボス　　　　　
+Dobos
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C2C, 8)
+
+// ドボス　　　　　
+Dobos
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C34, 8)
+
+// ドボス　　　　　
+Dobos
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C48, 8)
+
+// トリュース　　　
+Trius
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C50, 8)
+
+// トリュース　　　
+Trius
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C58, 8)
+
+// トリュース　　　
+Trius
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C6C, 8)
+
+// ザガート　　　　
+Zagato
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C74, 8)
+
+// ザガート　　　　
+Zagato
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2C7C, 8)
+
+// ザガート　　　　
+Zagato
+
+#ENDMSG()
+
+//===========================================================
+// player character full names
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x3C26, 8)
+
+// しどう　ひかる　
+Hikaru Shidou
+[spaceto]<$08>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3C32, 8)
+
+// りゅうざき　うみ
+Umi Ryuuzaki
+[spaceto]<$08>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3C3E, 8)
+
+// ほうおうじ　ふう
+Fuu Hououji
+[spaceto]<$08>
+
+#ENDMSG()
+
+//===========================================================
+// sound test 2
+//===========================================================
+
+#SETPADANDCENTER(0, 160)
+
+//[TEXT]
+#STARTMSG(0x6208, 15)
+
+// 　　　　ーサイレンスー　　　　
+-- SILENCE --
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6217, 15)
+
+// 　　　ゆずれない　ねがい　　　
+Yuzurenai Negai
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6226, 15)
+
+// 　　こもれびのなかを……　　　
+Amidst Sunlight Through Trees...
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6235, 15)
+
+// 　　マジックナイトのちから　　
+Power of a Magic Knight
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6244, 15)
+
+// 　ゆうしゃのひかりをあびて　　
+Basking in the Hero's Light
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6253, 15)
+
+// 　　　　やったね！！　　　　　
+I Did It!!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6262, 15)
+
+// そこに　ひそみすむ　ものども　
+Those Who There Lurk
+// CHECK
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6271, 15)
+
+// 　　ＭＡＧＩＣ　ＬＯＧＩＣ　　
+MAGIC LOGIC
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6280, 15)
+
+// 　　　こはくいろのせかい　　　
+An Amber-Colored World
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x628F, 15)
+
+// くらきめいきゅうにひとり……　
+Alone in the Dark Labyrinth...
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x629E, 15)
+
+// やすらかなる　たましいにささぐ
+Offering to a Departed Soul
+// CHECK
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62AD, 15)
+
+// 　　きょうは　だれかな？　　　
+Who Will It Be Today?
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62BC, 15)
+
+// みんなのおもいをちからにかえて
+Turning Our Feelings into Power
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62CB, 15)
+
+// しろきかみがみ　くろききょこう
+White Gods, Black Falsehoods
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62DA, 15)
+
+// 　　　まもののきょうい　　　　
+Menace of the Monsters
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62E9, 15)
+
+// 　　ＢＬＡＣＫ　ＳＨＯＣＫ　　
+BLACK SHOCK
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x62F8, 15)
+
+// 　くろきしんかん　ザガート　　
+Black Priest Zagato
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6307, 15)
+
+// 　ＴＨＥ　ＮＩＧＨＴＭＡＲＥ　
+THE NIGHTMARE
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6316, 15)
+
+// 　　　なにをみつけたの？　　　
+What Have You Found?
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6325, 15)
+
+// へいわはきみのてによって！！　
+Peace is in Your Hands!!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6334, 15)
+
+// ロテックだいこうしん　ポヨン！
+The Great Lotek March, Boing!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6343, 15)
+
+// 　　　すべてがもえる……　　　
+All Shall Burn...
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6352, 15)
+
+// ＴＨＡＮＸ　ーＵＭＩ　ＭＩＸー
+THANX --UMI MIX--
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6361, 15)
+
+// 　　　　ほのおのや！　　　　　
+Flame Arrow!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6370, 15)
+
+// 　　　　みずのりゅう！　　　　
+Water Dragon!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x637F, 15)
+
+// 　　　みどりのしっぷう！　　　
+Emerald Typhoon!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x638E, 15)
+
+// 　　　きょうはだれだ？　　　　
+Who is it today?
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x639D, 15)
+
+// 　　　　きょうはひかる　　　　
+Today is Hikaru!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63AC, 15)
+
+// 　　　きょうはうみさん　　　
+Today is Umi!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63BB, 15)
+
+// 　　　きょうはふうちゃん　　　
+Today is Fuu!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63CA, 15)
+
+// 　　　　　またね！　　　　　　
+See you!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63D9, 15)
+
+// 　　　　　　やー　　　　　　　
+Yaah!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63E8, 15)
+
+// 　　　　　　はっ　　　　　　　
+Ha!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x63F7, 15)
+
+// 　　　　　　やっ　　　　　　　
+Yah!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6406, 15)
+
+// 　　　　　　いたっ　　　　　　
+Ow!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6415, 15)
+
+// 　　　　　　いてっ　　　　　　
+Owch!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6424, 15)
+
+// 　　　　　　いたぃ　　　　　　
+Ouch!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6433, 15)
+
+// 　　　よしがんばるぞ！　　　　
+Okay, I'll do my best!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6442, 15)
+
+// 　　　がんばらなきゃ！　　　　
+Gotta do my best!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6451, 15)
+
+// 　　　がんばりますわ！　　　　
+I shall do my best!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6460, 15)
+
+// 　　　　　　あぁ　　　　　　　
+Aah!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x646F, 15)
+
+// 　　　　　きゃあぁ　　　　　　
+Eeek!
+[spaceto]<$14>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x647E, 15)
+
+// 　　　　　　きゃあ　　　　　　
+Eek!
+[spaceto]<$14>
+
+#ENDMSG()
+
+#DISABLEPADANDCENTER()
+

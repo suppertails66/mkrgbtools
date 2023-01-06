@@ -1,0 +1,49 @@
+
+scripts:
+	scripts are stored starting at 0x30000 and are treated
+	as a single contiguous unit.
+	this is the offset from the start of that block, so
+	0x0000 = 0x30000, 0x4000 = 0x34000, etc.
+
+routines:
+	04ed = memSet
+	0517 = sendToVram
+				 (safe send, waiting for mode 0/1)
+				 BC = length
+				 DE = dst
+				 HL = src
+	1E54 = fetchScriptByte
+	1E7A = fetchActiveScriptByte
+	1e8e = switchBank
+				 A = banknum
+	1E94 = copyLiteralToVram
+				 A = index
+				 returns index of tile in VRAM that graphics data was copied to
+
+
+memory:
+  C45A = battle: current character name?
+  C46E = battle: enemy name?
+	d266 = currentPrintTileIndex
+				 index in VRAM of current tile to write data to
+	d267 = ?
+	d268 = ?
+	d269 = ?
+	D2B9 = buffer used for e.g. character names?
+	       see e.g. ~3A5E
+	
+	FFAE = active bank?
+	FFB2-FFB3 = active script offset?
+							scripts are stored starting at 0x30000 and are treated
+							as a single contiguous unit.
+							this is the offset from the start of that block, so
+							0x0000 = 0x30000, 0x4000 = 0x34000, etc.
+
+font:
+  0x1800A: font 1 (hiragana)
+           - 0x18006 seems to be offset within bank to this
+  0x238F2: font 2 (katakana)
+           - 0x20004 seems to be offset within bank to this
+
+data:
+

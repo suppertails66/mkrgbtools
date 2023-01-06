@@ -1,0 +1,190 @@
+//===========================================================
+// location names
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x4434, 7)
+
+// ロゼッタのまち
+Rosetta Village
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x443C, 9)
+
+// フィールド　ほくぶ
+North Field
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4446, 9)
+
+// フィールド　なんぶ
+South Field
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4450, 10)
+
+// フォーゼルのどうくつ
+Phorzel Cave
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x445B, 9)
+
+// ゲッペルのしろ１Ｆ
+Geppel's[space1px][space1px][space1px]Castle[space1px][space1px][space1px]1F
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4465, 9)
+
+// ゲッペルのしろ２Ｆ
+Geppel's[space1px][space1px][space1px]Castle[space1px][space1px][space1px]2F
+[spaceto]<$0A>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x446F, 9)
+
+// ゲッペルのしろ３Ｆ
+Geppel's[space1px][space1px][space1px]Castle[space1px][space1px][space1px]3F
+[spaceto]<$0A>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4479, 2)
+// NOTE: the original string here is too short for us to use the usual
+// method of overwriting it with a jump or call command (requires 4 bytes),
+// so this is specially handled
+
+// もり
+Forest
+[spaceto]<$0A>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x447C, 7)
+
+// きのなか　かぶ
+In Tree, Lower
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4484, 9)
+
+// きのなか　じょうぶ
+In Tree, Upper
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x448E, 5)
+
+// おくじょう
+Rooftop
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4494, 10)
+
+// トリュースじょう９Ｆ
+Castle Trius 9F
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x449F, 10)
+
+// トリュースじょう８Ｆ
+Castle Trius 8F
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44AA, 10)
+
+// トリュースじょう７Ｆ
+Castle Trius 7F
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44B5, 10)
+
+// トリュースじょう６Ｆ
+Castle Trius 6F
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44C0, 10)
+
+// トリュースじょう５Ｆ
+Castle Trius 5F
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44CB, 10)
+
+// トリュースじょう４Ｆ
+Castle Trius 4F
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44D6, 10)
+
+// トリュースじょう３Ｆ
+Castle Trius 3F
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44E1, 10)
+
+// トリュースじょう２Ｆ
+Castle Trius 2F
+[spaceto]<$0A>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44EC, 10)
+
+// トリュースじょう１Ｆ
+Castle Trius 1F
+[spaceto]<$0A>
+
+#ENDMSG()
+

@@ -1,0 +1,164 @@
+//===========================================================
+// location names
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x4434, 7)
+
+// ロゼッタのまち
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x443C, 9)
+
+// フィールド　ほくぶ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4446, 9)
+
+// フィールド　なんぶ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4450, 10)
+
+// フォーゼルのどうくつ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x445B, 9)
+
+// ゲッペルのしろ１Ｆ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4465, 9)
+
+// ゲッペルのしろ２Ｆ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x446F, 9)
+
+// ゲッペルのしろ３Ｆ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4479, 2)
+
+// もり
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x447C, 7)
+
+// きのなか　かぶ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4484, 9)
+
+// きのなか　じょうぶ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x448E, 5)
+
+// おくじょう
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4494, 10)
+
+// トリュースじょう９Ｆ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x449F, 10)
+
+// トリュースじょう８Ｆ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44AA, 10)
+
+// トリュースじょう７Ｆ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44B5, 10)
+
+// トリュースじょう６Ｆ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44C0, 10)
+
+// トリュースじょう５Ｆ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44CB, 10)
+
+// トリュースじょう４Ｆ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44D6, 10)
+
+// トリュースじょう３Ｆ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44E1, 10)
+
+// トリュースじょう２Ｆ
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x44EC, 10)
+
+// トリュースじょう１Ｆ
+
+
+#ENDMSG()
+

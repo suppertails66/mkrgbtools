@@ -1,0 +1,497 @@
+//===========================================================
+// credits
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x6A76, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// 　　げんさく　　　
+Original Work
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6A82, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　　　ＣＬＡＭＰ　　　　　
+[br]
+      CLAMP
+//[spaceto]<$10>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6A96, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// こえのしゅつえん　
+Voice Acting
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6AA5, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　［ふ　う］　かさはら　ひろこ　
+<Fuu>[br]
+ Hiroko Kasahara
+//[spaceto]<$10>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6ABC, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　［う　み］　よしだ　こなみ　
+<Umi>[br]
+ Konami Yoshida
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6AD3, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　［ひかる］　しいな　へきる　
+<Hikaru>[br]
+ Hekiru Shiina
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6AE9, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// 　　スタッフ　　　
+Staff
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6AF8, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// 　　プログラム　　
+Program
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B04, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　つぼかわ　あきひと　　　
+   Akihito[br]
+     Tsubokawa
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B18, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// サウンドプログラム
+Sound Program
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B24, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　　いとう　しんや　　　　
+     Shinya[br]
+        Itou
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B38, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// 　　シナリオ　　　
+Scenario
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B44, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　とんぐう　かつひろ　　　
+    Katsuhiro[br]
+       Tonguu
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B58, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// 　ゲームデザイン　
+Game Design
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B64, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　かわかみ　としのり　　　
+   Toshinori[br]
+      Kawakami
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B78, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// 　　イベント　　　
+Events
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B84, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　つぼかわ　あきひと　　　
+   Akihito[br]
+      Tsubokawa
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B98, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　かわかみ　としのり　　　
+   Toshinori[br]
+      Kawakami
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BAC, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// 　ミュージック　　
+Music
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BB8, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　たむら　だいすけ　　　　
+    Daisuke[br]
+       Tamura
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BCC, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// ボイスサンプラー　
+Voice Sampling
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BD8, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　ワタナベ　ヨーコ　　　　
+   Youko[br]
+      Watanabe
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BEC, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// 　グラフィック　　
+Graphics
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BF8, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　あさぎり　みつよし　　　
+    Mitsuyoshi[br]
+       Asagiri
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C0C, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　たかすぎ　よしみ　　　　
+   Yoshimi[br]
+      Takasugi
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C20, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　きくがわ　かおる　　　　
+   Kaoru[br]
+      Kikugawa
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C34, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// スペシャルサンクス
+Special Thanks
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C40, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　うまさき　まさゆき［ＴＯＭＹ］
+Masayuki[br]
+  Umasaki <TOMY>
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C54, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　　うえの　かおり　　　　
+     Kaori[br]
+        Ueno
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C68, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　　かづめ　れいか　　　　
+    Reika[br]
+       Kazume
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C7C, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　　こじま　さきこ　　　　
+    Sakiko[br]
+       Kojima
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C90, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　　こしや　かつじ　　　　
+    Katsuji[br]
+       Koshiya
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6CA4, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　　やまだ　ふみよ　　　　
+    Fumiyo[br]
+       Yamada
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6CB8, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// 　ディレクター　　
+Director
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6CC4, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// 　　　　とんぐう　かつひろ　　　
+    Katsuhiro[br]
+       Tonguu
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6CD8, 9)
+#SETPADANDCENTER(0, 72)
+#LOADTABLE("table/mkrgb_en.tbl")
+
+// 　プロデュース　　
+Developed by
+[spaceto]<$09>
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6CE4, 16)
+//#SETPADANDCENTER(0, 128)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_credits_en.tbl")
+
+// ＰＡＮＤＯＲＡ　ＢＯＸ　１９９５
+PANDORA BOX 1995
+//[spaceto]<$10>
+
+
+#ENDMSG()
+
+//#SETPADANDCENTER(0, 96)
+#DISABLEPADANDCENTER()
+#LOADTABLE("table/mkrgb_en.tbl")
+
+//[TEXT]
+#STARTMSG(0x6CFA, 24)
+
+// 　　ＰＲＥＳＥＮＴ　　　ＢＹ　ＴＯＭＹ　１９９５
+//PRESENTED BY TOMY[br]
+//1995
+//[space8px][space8px][space1px][space1px]PRESENTED BY[halfbr]
+//[space8px][space8px][space8px][space8px][space8px][space8px][space8px][space8px][space8px][space8px][space8px][space8px][halfbr]
+//[space8px][space8px][space8px][space1px]TOMY 1995
+[space4px][space1px]PRESENTED BY TOMY[halfbr]
+[space8px][space8px][space8px][space8px][space8px][space8px][space8px][space8px][space8px][space8px][space8px][space8px][halfbr]
+[space8px][space8px][space8px][space8px][space4px][space1px][space1px]1995
+
+#ENDMSG()
+#DISABLEPADANDCENTER()
+

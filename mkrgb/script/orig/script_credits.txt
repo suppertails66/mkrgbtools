@@ -1,0 +1,308 @@
+//===========================================================
+// credits
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x6A76, 9)
+
+// 　　げんさく　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6A82, 16)
+
+// 　　　　　　ＣＬＡＭＰ　　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6A96, 9)
+
+// こえのしゅつえん　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6AA5, 16)
+
+// 　［ふ　う］　かさはら　ひろこ　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6ABC, 16)
+
+// 　　［う　み］　よしだ　こなみ　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6AD3, 16)
+
+// 　　［ひかる］　しいな　へきる　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6AE9, 9)
+
+// 　　スタッフ　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6AF8, 9)
+
+// 　　プログラム　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B04, 16)
+
+// 　　　　つぼかわ　あきひと　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B18, 9)
+
+// サウンドプログラム
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B24, 16)
+
+// 　　　　　いとう　しんや　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B38, 9)
+
+// 　　シナリオ　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B44, 16)
+
+// 　　　　とんぐう　かつひろ　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B58, 9)
+
+// 　ゲームデザイン　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B64, 16)
+
+// 　　　　かわかみ　としのり　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B78, 9)
+
+// 　　イベント　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B84, 16)
+
+// 　　　　つぼかわ　あきひと　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6B98, 16)
+
+// 　　　　かわかみ　としのり　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BAC, 9)
+
+// 　ミュージック　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BB8, 16)
+
+// 　　　　たむら　だいすけ　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BCC, 9)
+
+// ボイスサンプラー　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BD8, 16)
+
+// 　　　　ワタナベ　ヨーコ　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BEC, 9)
+
+// 　グラフィック　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6BF8, 16)
+
+// 　　　　あさぎり　みつよし　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C0C, 16)
+
+// 　　　　たかすぎ　よしみ　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C20, 16)
+
+// 　　　　きくがわ　かおる　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C34, 9)
+
+// スペシャルサンクス
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C40, 16)
+
+// 　うまさき　まさゆき［ＴＯＭＹ］
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C54, 16)
+
+// 　　　　　うえの　かおり　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C68, 16)
+
+// 　　　　　かづめ　れいか　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C7C, 16)
+
+// 　　　　　こじま　さきこ　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6C90, 16)
+
+// 　　　　　こしや　かつじ　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6CA4, 16)
+
+// 　　　　　やまだ　ふみよ　　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6CB8, 9)
+
+// 　ディレクター　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6CC4, 16)
+
+// 　　　　とんぐう　かつひろ　　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6CD8, 9)
+
+// 　プロデュース　　
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6CE4, 16)
+
+// ＰＡＮＤＯＲＡ　ＢＯＸ　１９９５
+
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x6CFA, 24)
+
+// 　　ＰＲＥＳＥＮＴ　　　ＢＹ　ＴＯＭＹ　１９９５
+
+
+#ENDMSG()
+

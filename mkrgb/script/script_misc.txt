@@ -1,0 +1,868 @@
+//===========================================================
+// battle messages
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x20A6, 9)
+
+// に　たおされた！
+ defeated you!
+[spaceto]<$10>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x20AF, 9)
+
+// を　やっつけた！
+ was defeated!
+[spaceto]<$10>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x20B8, 9)
+
+// は　みがまえた！
+ is guarding!
+[spaceto]<$10>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x20C1, 10)
+
+// から　にげられた！
+Fled from 00000000!
+[spaceto]<$10>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x20CB, 11)
+
+// から　にげられない！
+Can't escape 00000000!
+[spaceto]<$10>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x20D6, 10)
+
+// レベルがあがった！
+Level up!
+[spaceto]<$10>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x20E0, 19)
+
+// けいけんちをえた！　　　　　　　　　
+Gained EXP!
+[spaceto]<$10>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x20F3, 9)
+
+// が　あらわれた！
+ draws near!
+[spaceto]<$10>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x20FC, 11)
+
+#SETPADANDCENTER(0, 80)
+
+// ＧＡＭＥ　ＯＶＥＲ！
+GAME OVER!
+[spaceto]<$0A>
+[end]
+
+#ENDMSG()
+
+#DISABLEPADANDCENTER()
+
+//===========================================================
+// battle menu
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x21F9, 5)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// こうげき
+Attack
+[spaceto]<$04>
+[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x21FE, 5)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// まほう　
+Magic
+[spaceto]<$04>
+[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x2203, 5)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// にげる　
+Run
+[spaceto]<$04>
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// interface labels
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x3B7C, 3)
+
+// ＬＶ
+LV[tilebr]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B7F, 3)
+
+// ＨＰ
+HP[tilebr]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B82, 3)
+
+// ＭＰ
+MP[tilebr]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B85, 5)
+
+// こうげき
+Attack
+[spaceto]<$04>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B8A, 5)
+
+// まりょく
+Magic
+[spaceto]<$04>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3B8F, 5)
+
+// すばやさ
+Speed
+[spaceto]<$04>
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// debug menu 1
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x3F12, 9)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// わたしのかちー！
+I'm the winner![spaceto]<$08>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F1B, 9)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// どうなってるの？
+What's happening?[spaceto]<$08>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F24, 9)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// はじまりまーす！
+Here we go![spaceto]<$08>[br]
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// debug menu 2
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x3F2E, 7)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// ロード　　　
+Load[spaceto]<$06>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F35, 7)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// ほこうそくど
+Move Spd[spaceto]<$06>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F3C, 7)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// うぃんどう　
+Window[spaceto]<$06>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F43, 7)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// あたりなし　
+Noclip[spaceto]<$06>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F4A, 7)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// そうぐうなし
+No Encoun.[spaceto]<$06>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F51, 7)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// まっぷ　　　
+Map[spaceto]<$06>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F58, 7)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// きょく　　　
+Music[spaceto]<$06>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F5F, 7)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// こうかおん　
+SE[spaceto]<$06>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F66, 7)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// ピーシーエム
+PCM[spaceto]<$06>[br]
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// debug menu 3
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x3F6E, 5)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// さいそく
+Fastst[spaceto]<$04>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F73, 5)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// はやい　
+Fast[spaceto]<$04>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F78, 5)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// ふつう　
+Normal[spaceto]<$04>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3F7D, 5)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// おそい　
+Slow[spaceto]<$04>[br]
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// debug menu 4
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x3FBC, 7)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// せっていあり
+Enabled[spaceto]<$06>[br]
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3FC3, 7)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// せっていなし
+Disabled[spaceto]<$06>[br]
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// save message
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x40F1, 18)
+
+// ばんに　きろくしました！　　　　　
+
+//Saved on file [number]!
+Saved to File 
+[end]
+
+#ENDMSG()
+
+// NEW
+#STARTMSG(0x40F2, 0)
+
+!
+[spaceto]<$12>
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// save/load prompt
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x4270, 17)
+
+// どのデータに　きろくをしますか？
+Where will you save?
+[spaceto]<$12>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4281, 17)
+
+// どのデータの　つづきをしますか？
+Where will you continue from?
+[spaceto]<$12>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4292, 7)
+
+#SETPADANDCENTER(0, 8)
+
+// １２３４５６
+[space1px]1[br]
+[space1px]2[br]
+[space1px]3[br]
+[space1px]4[br]
+[space1px]5[br]
+[space1px]6[tilebr]
+[end]
+
+#ENDMSG()
+
+#DISABLEPADANDCENTER()
+
+//===========================================================
+// save misc
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x43EC, 6)
+
+// 　ばしょ　
+[tilebr]
+Area
+[spaceto]<$05>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x43F2, 9)
+
+// モコナ　　　　　
+Mokona
+[spaceto]<$08>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x43FB, 16)
+
+// ー　きろくが　ありません！　ー
+#SETPADANDCENTER(0, 120)
+-- No data here! --
+[spaceto]<$0F>
+[end]
+#DISABLEPADANDCENTER()
+
+#ENDMSG()
+
+//===========================================================
+// error 1
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x47B2, 8)
+
+// みていぎこーど
+Undef. code
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// error 2
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x47DD, 9)
+
+// らんたいむえらー
+Runtime error
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// error 3
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x480B, 9)
+
+// うぃんどうくろず
+Window close
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// error 4
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x488D, 9)
+
+// ごおさぶおーばー
+Gosub over
+[end]
+// NOTE: i'm not familiar enough with japanese programming conventions
+// to be sure of "over" here -- i'd guess it's abbreviating "overflow"
+
+#ENDMSG()
+
+//===========================================================
+// error 5
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x48B8, 9)
+
+// りたーんおーばー
+Return over
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// error 6
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x4A10, 9)
+
+// すいっちおーばー
+Switch over
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// error 7
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x4A40, 9)
+
+// ぶれーくおーばー
+Break over
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// error 8
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x4AF3, 8)
+
+// ふぉあおーばー
+For over
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// error 9
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x4B15, 9)
+
+// ねくすとおーばー
+Next over
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// yes/no prompt
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x4C9D, 13)
+
+// [br]
+// 　　はい　[br]
+// 　　いいえ
+[br]
+[space8px][space8px]Yes[br]
+[space8px][space8px]No
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// character select 1a
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x51A8, 6)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// ［ひかる］
+<Hikaru>
+[spaceto]<$05>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x51AE, 14)
+
+// わたしのおはなしだよ！　　
+It's my adventure!
+[spaceto]<$0D>
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// character select 1b
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x51BD, 14)
+
+// よし　がんばるぞ！　　　　
+Okay, I'll do my best!
+[spaceto]<$0D>
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// character select 2a
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x51D1, 6)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// ［うみ］　
+<Umi>
+[spaceto]<$05>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x51D7, 14)
+
+// わたしのストーリーよ！　　
+This is my story!
+[spaceto]<$0D>
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// character select 2b
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x51E6, 14)
+
+// がんばらなきゃ！　　　　　
+Gotta do my best!
+[spaceto]<$0D>
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// character select 3a
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x51FA, 6)
+#SETMSGPROPERTY("jumpToEnd", "1")
+
+// ［ふう］　
+<Fuu>
+[spaceto]<$05>
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x5200, 14)
+
+// わたくしのおはなしですわ！
+This would be my tale!
+[spaceto]<$0D>
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// character select 3b
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x520F, 14)
+
+// がんばりますわ！　　　　　
+I shall do my best!
+[spaceto]<$0D>
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// character select prompt
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x521D, 18)
+
+// だれのおはなしにするか　えらんでね
+Please select a story.
+[spaceto]<$12>
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// sound test 1
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x61FD, 11)
+#SETPADANDCENTER(0, 80)
+
+// ＳＯＵＮＤ　ＭＯＤＥ
+SOUND MODE
+[spaceto]<$0A>
+[end]
+
+#ENDMSG()
+#DISABLEPADANDCENTER()
+
+//===========================================================
+// title screen options
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x648D, 11)
+
+// はじめからつづきから
+[space1px][space1px][space1px]New Game[br]
+[space1px][space1px][space1px]Continue
+[end]
+
+#ENDMSG()
+
+//===========================================================
+// title screen copyright
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x6498, 33)
+
+// ©ＣＬＡＭＰ・講談社　読売ＴＶ・電通・ＴＭＳ©ＴＯＭＹ　１９９５
+//© CLAMP, Kodansha,[br]
+// Yomiuri TV, Dentsu, TMS[br]
+//© TOMY 1995
+//© CLAMP, Kodansha,[br]
+//[space8px] Yomiuri TV, Dentsu,[br]
+//[space8px] TMS[br]
+//© TOMY 1995
+#SETPADANDCENTER(0, 112)
+©[space1px][space1px]CLAMP[space1px][space1px]-[space1px][space1px]Kodansha[br]
+Yomiuri TV[space1px][space1px]-[space1px][space1px]Dentsu[space1px][space1px]-[space1px][space1px]TMS[br]
+©[space1px][space1px]TOMY 1995
+[end]
+
+#ENDMSG()
+#DISABLEPADANDCENTER()
+
+//===========================================================
+// intro
+//===========================================================
+
+//#SETSIZE(144, 3)
+#SETSIZE(160, 3)
+//#SETSIZE(144, 4)
+
+#SETPADANDCENTER(0, 160)
+
+//[TEXT]
+#STARTMSG(0x6539, 53)
+
+// あるひ　ひかる・うみ・ふうの３にんはエメロードひめによって　いせかい　　セフィーロにしょうかんされた……
+//One day, Hikaru, Umi, and Fuu were summoned to another world, Cephiro, by Princess Emeraude.
+One day, Hikaru, Umi, and Fuu[spaceto]<$14>[br]
+were summoned to another world,[spaceto]<$14>[br]
+Cephiro, by Princess Emeraude.[spaceto]<$14>
+//One day, Hikaru, Umi, and Fuu were summoned to another world, Cephiro, by Princess Emeraude.
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x656E, 53)
+
+// どうしクレフから　マジックナイトの　でんせつをとかれ　まほうをさずかったかのじょたちは……　　　　　　　
+//After Guru Clef told them about the legend of the Magic Knights and unlocked their latent magic,
+After Guru Clef told them the[spaceto]<$14>[br]
+legend of the Magic Knights[spaceto]<$14>[br]
+and unlocked their latent magic,[spaceto]<$14>
+//After Guru Clef told them about the legend of the Magic Knights and unlocked their latent magic,
+[end]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x65A3, 52)
+
+// ザガートにさらわれたエメロードひめをそして　セフィーロをすくうために　　たびをつづけるのであった………
+//the girls went on their journey to save Princess Emeraude and the land of Cephiro from Zagato...
+the girls went on a journey to[spaceto]<$14>[br]
+save Princess Emeraude and the[spaceto]<$14>[br]
+land of Cephiro from Zagato...[spaceto]<$14>
+//the girls went on their journey to save Princess Emeraude and the land of Cephiro from Zagato...
+[end]
+
+#ENDMSG()
+
+#DISABLEPADANDCENTER(0, 160)
